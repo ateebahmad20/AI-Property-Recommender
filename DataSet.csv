@@ -1,0 +1,1904 @@
+neighbourhood,neighbourhood_group,Area,Type,Latitude,Longitude,Bath_s_,Bedroom_s_,Rent
+E-7, Islamabad,44,House,33.7253134,73.04544231,6,8,1900
+E-7, Islamabad,44,House,33.7253134,73.04544231,6,8,1700
+E-7, Islamabad,44,House,33.7253134,73.04544231,6,7,1200
+E-7, Islamabad,40,House,33.7253134,73.04544231,6,5,955
+E-7, Islamabad,44,House,33.7253134,73.04544231,5,5,850
+E-7, Islamabad,40,House,33.7253134,73.04544231,5,4,850
+F-6, Islamabad,48,House,33.7286213,73.0735239,6,8,1950
+F-6, Islamabad,80,House,33.7286213,73.0735239,8,7,2000
+F-6, Islamabad,40,House,33.7286213,73.0735239,7,6,1035
+F-6, Islamabad,40,House,33.7286213,73.0735239,6,6,780
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,5,740
+F-6, Islamabad,40,House,33.7286213,73.0735239,6,5,600
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,5,600
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,4,730
+F-6, Islamabad,20,House,33.7286213,73.0735239,3,3,400
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,7,1500
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,8,1600
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,7,1700
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,6,1550
+F-8, Islamabad,48,House,33.7115043,73.0396002,5,6,830
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,6,680
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,5,1000
+F-8, Islamabad,36,House,33.7115043,73.0396002,6,5,820
+G-6, Islamabad,40,House,33.7154283,73.0856414,6,5,975
+G-6, Islamabad,20,House,33.7154283,73.0856414,6,5,450
+G-6, Islamabad,20,House,33.7154283,73.0856414,5,5,375
+G-6, Islamabad,12,House,33.7154283,73.0856414,5,5,350
+G-6, Islamabad,10,House,33.7154283,73.0856414,5,5,350
+G-6, Islamabad,10,House,33.7154283,73.0856414,5,5,300
+G-9, Islamabad,10,House,33.6914356,73.0307196,5,10,350
+G-9, Islamabad,6,House,33.6914356,73.0307196,6,7,450
+G-9, Islamabad,6,House,33.6914356,73.0307196,6,7,200
+G-9, Islamabad,12,House,33.6914356,73.0307196,5,5,300
+G-9, Islamabad,10,House,33.6914356,73.0307196,4,5,275
+G-9, Islamabad,10,House,33.6914356,73.0307196,5,5,275
+G-9, Islamabad,10,House,33.6914356,73.0307196,5,5,275
+B-17, Islamabad,20,House,33.6903984,72.8286389,4,4,80
+B-17, Islamabad,5,House,33.6903984,72.8286389,3,3,50
+B-17, Islamabad,5,House,33.6903984,72.8286389,3,3,45
+B-17, Islamabad,4.5,House,33.6903984,72.8286389,3,3,40
+B-17, Islamabad,5,House,33.6903984,72.8286389,3,3,38
+D-17, Islamabad,6.9,House,33.6571475,72.8546185,6,6,75
+D-17, Islamabad,10,House,33.6571475,72.8546185,5,5,85
+D-17, Islamabad,8,House,33.6571475,72.8546185,4,4,70
+D-18, Islamabad,20,House,14.5538586,121.1353647,6,6,160
+E-11, Islamabad,20,House,33.6951189,72.972418,6,10,400
+F-11, Islamabad,26,House,33.6843932,72.989544,5,10,700
+F-11, Islamabad,22,House,33.6843932,72.989544,6,6,350
+F-11, Islamabad,20,House,33.6843932,72.989544,6,5,450
+F-11, Islamabad,22,House,33.6843932,72.989544,6,5,400
+G-10, Islamabad,20,House,33.6777223,73.0187007,6,8,500
+G-13, Islamabad,4,House,33.6514525,72.9620722,4,3,70
+G-16, Islamabad,48,House,33.6263457,72.9146691,6,8,290
+G-16, Islamabad,7,House,33.6263457,72.9146691,6,5,100
+G-16, Islamabad,8,House,33.6263457,72.9146691,3,3,45
+H-13, Islamabad,8,House,33.6366772,72.9754502,6,7,115
+H-13, Islamabad,5,House,33.6366772,72.9754502,3,4,50
+I-10, Islamabad,6,House,33.6482061,73.0369194,4,4,90
+I-10, Islamabad,5,House,33.6482061,73.0369194,3,4,85
+I-10, Islamabad,6,House,33.6482061,73.0369194,4,4,85
+I-10, Islamabad,6,House,33.6482061,73.0369194,3,4,80
+I-11, Islamabad,5,House,33.6406724,73.0206898,6,5,85
+I-11, Islamabad,5,House,33.6406724,73.0206898,6,4,100
+I-11, Islamabad,5,House,33.6406724,73.0206898,2,2,50
+I-11, Islamabad,5,House,33.6406724,73.0206898,2,2,48
+I-14, Islamabad,8.5,House,33.6116096,72.9674477,5,5,90
+I-14, Islamabad,6,House,33.6116096,72.9674477,5,5,65
+I-14, Islamabad,6,House,33.6116096,72.9674477,5,5,60
+I-14, Islamabad,5,House,33.6116096,72.9674477,5,5,60
+I-14, Islamabad,7,House,33.6116096,72.9674477,3,3,50
+I-14, Islamabad,5,House,33.6116096,72.9674477,2,2,30
+F-6/1, Islamabad,26,House,33.72486405,73.07362221,5,4,800
+F-6/1, Islamabad,22,House,33.72486405,73.07362221,4,4,400
+F-6/1, Islamabad,20,House,33.72486405,73.07362221,4,3,715
+F-6/2, Islamabad,4,House,33.73064445,73.06852239,6,11,750
+F-6/2, Islamabad,48,House,33.73064445,73.06852239,6,7,1400
+F-6/2, Islamabad,24,House,33.73064445,73.06852239,6,6,1200
+F-6/2, Islamabad,26,House,33.73064445,73.06852239,5,5,650
+F-6/2, Islamabad,40,House,33.73064445,73.06852239,4,4,1250
+F-6/3, Islamabad,72,House,33.7358652,73.07641414,6,11,5000
+F-6/3, Islamabad,32,House,33.7358652,73.07641414,6,11,2450
+F-6/3, Islamabad,42,House,33.7358652,73.07641414,6,10,2000
+F-6/3, Islamabad,48,House,33.7358652,73.07641414,6,7,1600
+F-6/3, Islamabad,26,House,33.7358652,73.07641414,6,6,1400
+F-6/3, Islamabad,20,House,33.7358652,73.07641414,6,5,1200
+F-6/3, Islamabad,80,House,33.7358652,73.07641414,5,0,3600
+F-6/4, Islamabad,50,House,33.7286412,73.082677,6,6,2800
+F-7/1, Islamabad,26,House,33.71548185,73.05589627,6,7,1200
+F-7/1, Islamabad,26,House,33.71548185,73.05589627,7,6,600
+F-7/1, Islamabad,20,House,33.71548185,73.05589627,3,3,500
+F-7/1, Islamabad,20,House,33.71548185,73.05589627,4,3,500
+F-7/2, Islamabad,20,House,33.7208319,73.05020291,6,6,1350
+F-7/2, Islamabad,50,House,33.7208319,73.05020291,6,6,800
+F-7/2, Islamabad,20,House,33.7208319,73.05020291,6,5,850
+F-7/3, Islamabad,32,House,33.7264496,73.05900418,6,7,2000
+F-8/1, Islamabad,40,House,33.7080283,73.03549453,6,8,1100
+F-8/1, Islamabad,10,House,33.7080283,73.03549453,2,2,318
+F-8/2, Islamabad,22,House,33.713856,73.03330714,6,7,850
+F-8/2, Islamabad,22,House,33.713856,73.03330714,6,7,850
+F-8/2, Islamabad,36,House,33.713856,73.03330714,6,7,700
+F-8/2, Islamabad,26,House,33.713856,73.03330714,6,6,800
+F-8/3, Islamabad,40,House,33.71607365,73.04304059,5,5,2434
+F-8/3, Islamabad,40,House,33.71607365,73.04304059,5,5,2291
+F-8/3, Islamabad,20,House,33.71607365,73.04304059,5,5,866
+F-8/3, Islamabad,20,House,33.71607365,73.04304059,5,5,578
+F-8/3, Islamabad,20,House,33.71607365,73.04304059,6,6,1155
+F-8/4, Islamabad,20,House,33.70927865,73.04592737,6,7,1000
+F-8/4, Islamabad,20,House,33.70927865,73.04592737,6,6,850
+F-8/4, Islamabad,40,House,33.70927865,73.04592737,5,5,1152
+F-8/4, Islamabad,26,House,33.70927865,73.04592737,5,5,864
+G-6/2, Islamabad,10,House,33.71593175,73.079018,5,5,315
+G-6/3, Islamabad,74,House,33.7209609,73.08831368,6,8,3500
+G-6/3, Islamabad,64,House,33.7209609,73.08831368,6,5,1200
+G-6/3, Islamabad,20,House,33.7209609,73.08831368,5,5,400
+G-6/4, Islamabad,26,House,33.7148357,73.09276807,6,10,3000
+G-6/4, Islamabad,26,House,33.7148357,73.09276807,6,9,3000
+G-9/3, Islamabad,6,House,33.6931761,73.036509,4,4,160
+G-9/3, Islamabad,6,House,33.6931761,73.036509,4,4,150
+D-12/4, Islamabad,10.9,House,33.7018409,72.95518845,4,4,300
+D-12/4, Islamabad,4,House,33.7018409,72.95518845,5,4,110
+E-11/3, Islamabad,20,House,33.7025879,72.9776753,6,6,450
+E-11/4, Islamabad,8,House,33.6981983,72.9845288,5,5,50
+E-16/3, Islamabad,10,House,33.6523786,72.8830284,3,3,40
+E-17/3, Islamabad,20,House,33.6479523,72.8622667,5,5,45
+F-10/1, Islamabad,20,House,33.6857414,73.00269007,8,8,1000
+F-10/4, Islamabad,20,House,33.6898642,73.01194295,6,6,425
+F-10/4, Islamabad,22,House,33.6898642,73.01194295,4,5,450
+F-11/3, Islamabad,20,House,33.6900186,72.99036831,5,5,400
+F-11/4, Islamabad,26,House,33.6831454,72.99505219,6,7,750
+F-11/4, Islamabad,20,House,33.6831454,72.99505219,5,5,380
+F-17/2, Islamabad,8,House,33.6312813,72.8802819,6,4,72
+G-10/1, Islamabad,7,House,33.67204215,73.01270185,2,4,120
+G-10/2, Islamabad,12,House,33.67513905,73.00871369,5,5,230
+G-10/2, Islamabad,10.9,House,33.67513905,73.00871369,5,4,160
+G-10/3, Islamabad,20,House,33.6849014,73.01853842,5,5,170
+G-10/4, Islamabad,7,House,33.67871845,73.02256829,2,4,135
+G-13/2, Islamabad,8,House,33.65136225,72.95694911,6,5,145
+G-13/2, Islamabad,7,House,33.65136225,72.95694911,6,5,145
+G-13/2, Islamabad,7,House,33.65136225,72.95694911,5,5,140
+G-13/2, Islamabad,7,House,33.65136225,72.95694911,6,4,125
+G-13/3, Islamabad,10,House,33.6555379,72.96508744,5,5,165
+G-13/3, Islamabad,10,House,33.6555379,72.96508744,5,4,145
+G-13/3, Islamabad,7,House,33.6555379,72.96508744,2,2,55
+Islamabad/3, Islamabad,20,House,33.66361245,73.02663611,5,5,250
+Islamabad/4, Islamabad,8,House,33.7009974,73.0478794,5,5,95
+Islamabad/4, Islamabad,8,House,33.7009974,73.0478794,5,5,80
+I-10/2, Islamabad,6,House,33.64880775,73.03075263,3,5,85
+I-10/2, Islamabad,6,House,33.64880775,73.03075263,4,4,100
+I-10/2, Islamabad,6,House,33.64880775,73.03075263,4,4,85
+I-10/4, Islamabad,6,House,33.6466897,73.04550318,2,2,50
+I-11/2, Islamabad,6,House,14.5538586,121.1353647,2,2,45
+I-14/4, Islamabad,0,House,33.6083411,72.97235505,2,2,45
+Tarlai, Islamabad,10,House,33.6407497,73.1535064,3,4,35
+GT Road, Rawalpindi,60,House,33.6448306,72.83834,5,11,350
+Lalazar, Rawalpindi,10,House,33.7951464,72.722776,4,4,55
+Askari 7, Rawalpindi,20,House,33.5595946,73.0635453,4,4,90
+Askari 7, Rawalpindi,10,House,33.5595946,73.0635453,3,3,90
+Askari 7, Rawalpindi,10,House,33.5595946,73.0635453,3,3,87
+Askari 8, Rawalpindi,20,House,33.8192203,72.72390158,5,5,200
+Askari 8, Rawalpindi,20,House,33.8192203,72.72390158,4,4,200
+Askari 9, Rawalpindi,15,House,33.8192203,72.72390158,5,5,180
+CBR Town, Islamabad,8,House,33.55735025,73.1409359,6,5,260
+CBR Town, Islamabad,8,House,33.55735025,73.1409359,6,5,85
+Askari 10, Rawalpindi,10,House,33.5868819,73.0770936,6,5,120
+Askari 13, Rawalpindi,20,House,33.5674894,73.0627298,5,5,145
+Askari 13, Rawalpindi,10,House,33.5674894,73.0627298,6,5,115
+Askari 13, Rawalpindi,12,House,33.5674894,73.0627298,5,4,130
+Askari 13, Rawalpindi,10,House,33.5674894,73.0627298,5,4,125
+Askari 13, Rawalpindi,10,House,33.5674894,73.0627298,4,4,120
+Askari 13, Rawalpindi,10,House,33.5674894,73.0627298,4,4,110
+Askari 13, Rawalpindi,7,House,33.5674894,73.0627298,4,4,85
+Bani Gala, Islamabad,12,House,33.7100588,73.1535951,4,2,50
+DHA Homes, Islamabad,8,House,33.4967048,73.2788512,4,4,25
+DHA Homes, Islamabad,8,House,33.4967048,73.2788512,3,3,27
+DHA Homes, Islamabad,5,House,33.4967048,73.2788512,2,2,12
+Westridge, Rawalpindi,20,House,33.6101302,73.0219467,4,3,135
+Bhara kahu, Islamabad,5,House,33.7366096,73.1885646,4,4,25
+DHA Valley, Islamabad,5,House,33.5291852,73.1902642,2,2,15
+Media Town, Rawalpindi,12,House,33.56273085,73.12496105,5,7,140
+Media Town, Rawalpindi,12,House,33.56273085,73.12496105,6,7,135
+Media Town, Rawalpindi,11,House,33.56273085,73.12496105,6,6,155
+Media Town, Rawalpindi,12,House,33.56273085,73.12496105,6,6,150
+Media Town, Rawalpindi,12,House,33.56273085,73.12496105,6,6,140
+Media Town, Rawalpindi,12,House,33.56273085,73.12496105,6,6,130
+Range Road, Rawalpindi,10,House,33.5752887,73.055875,6,6,95
+Range Road, Rawalpindi,10,House,33.5752887,73.055875,6,5,85
+Range Road, Rawalpindi,7,House,33.5752887,73.055875,4,4,75
+Range Road, Rawalpindi,6,House,33.5752887,73.055875,4,4,43
+Range Road, Rawalpindi,5,House,33.5752887,73.055875,4,4,42
+Range Road, Rawalpindi,5,House,33.5752887,73.055875,2,2,25
+Rawal Town, Islamabad,3,House,33.6843026,73.11776724,1,2,21
+Top City 1, Islamabad,10,House,33.5681601,72.8485605,6,6,125
+Top City 1, Islamabad,10,House,33.5681601,72.8485605,6,5,110
+Top City 1, Islamabad,10,House,33.5681601,72.8485605,6,5,100
+Top City 1, Islamabad,10,House,33.5681601,72.8485605,6,4,100
+Top City 1, Islamabad,10,House,33.5681601,72.8485605,3,3,55
+Top City 1, Islamabad,10,House,33.5681601,72.8485605,3,2,50
+Tulsa Road, Rawalpindi,20,House,33.5676269,73.0531832,6,6,180
+Adiala Road, Rawalpindi,12,House,33.5649648,73.0660615,5,5,40
+Adiala Road, Rawalpindi,5,House,33.5649648,73.0660615,5,5,35
+Adiala Road, Rawalpindi,4,House,33.5649648,73.0660615,5,5,25
+Adiala Road, Rawalpindi,10,House,33.5649648,73.0660615,6,6,55
+Adiala Road, Rawalpindi,20,House,33.5649648,73.0660615,4,4,50
+Adiala Road, Rawalpindi,5,House,33.5649648,73.0660615,4,4,36
+DHA Defence, Islamabad,20,House,33.6139718,72.9788069,3,3,110
+Ghauri Town, Islamabad,5,House,33.5996227,73.1357793,6,5,50
+Ghauri Town, Islamabad,11.1,House,33.5996227,73.1357793,5,4,45
+Ghauri Town, Islamabad,7.1,House,33.5996227,73.1357793,4,4,35
+Ghauri Town, Islamabad,5.6,House,33.5996227,73.1357793,3,2,26
+Ghauri Town, Rawalpindi,6,House,33.8022151,72.7501235,2,2,23
+Ghauri Town, Rawalpindi,6,House,33.8022151,72.7501235,2,2,23
+Ghauri Town, Islamabad,5.6,House,33.5996227,73.1357793,2,2,23
+Ghauri Town, Islamabad,3.6,House,33.5996227,73.1357793,2,2,17
+I-10 Markaz, Islamabad,0,House,33.6477128,73.03899216,1,2,43
+Mumtaz City, Islamabad,8,House,33.5992169,72.8367535,3,2,50
+Mumtaz City, Islamabad,6,House,33.5992118,72.8161522,2,2,35
+Murree Road, Rawalpindi,5,House,33.5953855,73.0579138,1,2,22
+River Hills, Rawalpindi,4.8,House,33.5203595,73.0991604,2,2,55
+Rose Garden, Rawalpindi,5,House,33.5874801,73.08575144,3,3,45
+Sadiqa Abad, Rawalpindi,5,House,33.6073985,73.0009608,1,2,25
+Sadiqa Abad, Rawalpindi,5,House,33.6073985,73.0009608,1,2,25
+Soan Garden, Islamabad,10,House,33.562535,73.1534991,3,3,48
+Soan Garden, Islamabad,7,House,33.562535,73.1534991,2,2,30
+Westridge 2, Rawalpindi,20,House,33.6175671,73.0276852,5,5,130
+Defence Road, Rawalpindi,14,House,33.550043,73.0933211,3,3,50
+Defence Road, Rawalpindi,10,House,33.550043,73.0933211,3,3,35
+Eiffel Tower, Rawalpindi,10,House,33.5147256,73.082492,2,2,55
+Green Avenue, Islamabad,5.6,House,33.6678283,73.1553532,4,4,80
+Gulshan Abad, Rawalpindi,10,House,33.640304,73.082726,6,6,65
+Gulshan Abad, Rawalpindi,10,House,33.640304,73.082726,3,3,35
+Misryal Road, Rawalpindi,3.5,House,33.6361694,72.951568,3,3,40
+Park Enclave, Islamabad,20,House,33.69234935,73.21855839,6,6,195
+Qasim Market, Rawalpindi,6,House,33.6003562,73.03351648,4,4,75
+River Garden, Islamabad,7,House,33.5495883,73.1686188,6,5,78
+Shehzad Town, Islamabad,9,House,33.6489767,73.16050457,3,3,70
+Faisal Colony, Rawalpindi,5,House,33.5795067,73.0390972,4,4,45
+Faisal Colony, Rawalpindi,5,House,33.5795067,73.0390972,4,4,45
+Pakistan Town, Islamabad,5,House,33.5385093,73.1345102,4,4,70
+Peshawar Road, Rawalpindi,7,House,33.6118763,72.99928717,4,4,60
+Peshawar Road, Rawalpindi,5,House,33.6118763,72.99928717,4,3,60
+Wakeel Colony, Rawalpindi,6,House,33.5952078,73.1003165,4,4,45
+Wakeel Colony, Rawalpindi,5,House,33.6361767,73.1003165,2,2,29
+Wakeel Colony, Rawalpindi,5,House,33.5952078,73.1003165,2,2,29
+Jinnah Gardens, Islamabad,7,House,33.5739984,73.1692993,6,6,70
+Karsaaz Villas, Islamabad,20,House,33.7069427,72.9286349,6,5,200
+Karsaaz Villas, Islamabad,10,House,33.7069427,72.9286349,5,4,80
+Satellite Town, Rawalpindi,20,House,33.6384026,73.0696929,6,8,260
+Satellite Town, Rawalpindi,10,House,33.6384026,73.0696929,6,6,265
+Shalley Valley, Rawalpindi,5,House,33.59677665,73.01148253,5,5,68
+Shalley Valley, Rawalpindi,5,House,33.59677665,73.01148253,4,4,45
+Shalley Valley, Rawalpindi,5,House,33.59677665,73.01148253,4,4,40
+Fateh Jang Road, Islamabad,24,House,33.6361489,72.9103659,4,3,70
+Gulbahar Scheme, Rawalpindi,6,House,33.5852931,73.1134492,2,2,25
+Gulistan Colony, Rawalpindi,15,House,33.570708,73.0920455,6,6,155
+High Court Road, Rawalpindi,5,House,33.5528168,73.100218,4,4,55
+Judicial Colony, Rawalpindi,10,House,33.5953539,73.1355255,6,6,85
+MPCHS - Block C, Islamabad,8,House,33.6360669,72.8279381,4,4,50
+MPCHS - Block D, Islamabad,6.2,House,33.6812531,72.7945133,6,6,110
+MPCHS - Block F, Islamabad,5,House,33.6899569,72.8242622,5,4,45
+Naval Anchorage, Islamabad,20,House,33.569581,73.1959189,6,7,170
+Naval Anchorage, Islamabad,20,House,33.569581,73.1959189,6,5,150
+Bahria Golf City, Islamabad,16,House,33.7853774,73.2793799,4,3,275
+CBR Town Phase 1, Islamabad,7,House,33.559213,73.1316657,5,4,95
+MPCHS - Block C1, Islamabad,8,House,33.6899569,72.8242622,4,4,70
+MPCHS - Block C1, Islamabad,8,House,33.6899569,72.8242622,6,4,70
+MPCHS - Block C1, Islamabad,5,House,33.6899569,72.8242622,3,3,45
+Shah Allah Ditta, Islamabad,8,House,33.7221359,72.91516494,5,4,80
+Shah Allah Ditta, Islamabad,10,House,33.7221359,72.91516494,3,3,70
+Islamabad Heights, Islamabad,7.3,House,33.6332371,72.926528,2,2,46
+Sher Zaman Colony, Rawalpindi,10,House,33.5623376,73.0448602,4,4,40
+Bahria Garden City, Islamabad,40,House,33.5175464,73.1176714,6,6,475
+Emaar Canyon Views, Islamabad,24,House,33.5210531,73.1837721,6,5,140
+Emaar Canyon Views, Islamabad,10,House,33.5210531,73.1837721,6,5,110
+Emaar Canyon Views, Islamabad,24,House,33.5210531,73.1837721,4,4,150
+Emaar Canyon Views, Islamabad,16,House,33.5210531,73.1837721,3,3,90
+Emaar Canyon Views, Islamabad,11,House,33.5210531,73.1837721,3,3,90
+Faisal Town - F-18, Islamabad,15,House,33.6145159,72.8686386,6,6,150
+Faisal Town - F-18, Islamabad,8,House,33.6145159,72.8686386,6,6,90
+Faisal Town - F-18, Islamabad,8,House,33.6145159,72.8686386,4,4,90
+Faisal Town - F-18, Islamabad,8,House,33.6145159,72.8686386,4,4,85
+Faisal Town - F-18, Islamabad,7,House,33.6145159,72.8686386,6,4,80
+Faisal Town - F-18, Islamabad,7,House,33.6145159,72.8686386,5,4,75
+Faisal Town - F-18, Islamabad,8,House,33.6145159,72.8686386,2,2,45
+Fazal Town Phase 2, Rawalpindi,6,House,33.6056405,73.1095298,2,2,26
+Fazal Town Phase 2, Rawalpindi,6,House,33.6056405,73.1095298,2,2,26
+Mirador M3 Village, Islamabad,22,House,33.5217602,73.1822257,5,5,150
+PWD Housing Scheme, Islamabad,14,House,33.5888364,72.9278061,7,7,250
+PWD Housing Scheme, Islamabad,10,House,33.5888364,72.9278061,6,5,95
+PWD Housing Scheme, Islamabad,9.3,House,33.5885083,72.7628892,5,5,88
+Bahria Town Phase 1, Rawalpindi,24,House,33.5255518,73.1112206,6,9,220
+Bahria Town Phase 1, Rawalpindi,20,House,33.5255518,73.1112206,6,6,250
+Bahria Town Phase 1, Rawalpindi,20,House,33.5255518,73.1112206,5,5,400
+Bahria Town Phase 1, Rawalpindi,20,House,33.5255518,73.1112206,5,5,330
+Bahria Town Phase 1, Rawalpindi,20,House,33.5255518,73.1112206,6,5,270
+Bahria Town Phase 1, Rawalpindi,20,House,33.5255518,73.1112206,6,5,230
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,5,5,120
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,7,210
+Bahria Town Phase 4, Rawalpindi,22,House,33.5498633,73.1331083,6,5,200
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,5,150
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,5,120
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,4,120
+Bahria Town Phase 6, Rawalpindi,30,House,33.5498633,73.1331083,6,8,370
+Bahria Town Phase 6, Rawalpindi,20,House,33.5498633,73.1331083,6,7,220
+Bahria Town Phase 6, Rawalpindi,20,House,33.5498633,73.1331083,6,6,195
+Bahria Town Phase 6, Rawalpindi,10,House,33.5498633,73.1331083,6,5,250
+Bahria Town Phase 6, Rawalpindi,14,House,33.5498633,73.1331083,7,5,250
+Bahria Town Phase 6, Rawalpindi,15,House,33.5498633,73.1331083,6,5,130
+Bahria Town Phase 6, Rawalpindi,10,House,33.5498633,73.1331083,5,4,155
+Bahria Town Phase 6, Rawalpindi,10,House,33.5498633,73.1331083,5,4,105
+Bahria Town Phase 7, Rawalpindi,1.5,House,33.5498633,73.1331083,5,5,25
+Bahria Town Phase 7, Rawalpindi,14,House,33.5498633,73.1331083,5,5,150
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,150
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,6,5,150
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,120
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,4,130
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,4,3,80
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,2,2,70
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,135
+DHA Defence Phase 1, Islamabad,20,House,33.5274476,73.0570854,6,6,230
+DHA Defence Phase 1, Islamabad,20,House,33.5274476,73.0570854,6,6,225
+DHA Defence Phase 1, Islamabad,20,House,33.5274476,73.0570854,6,6,150
+DHA Defence Phase 1, Islamabad,20,House,33.5274476,73.0570854,6,5,200
+DHA Defence Phase 1, Islamabad,11,House,33.5274476,73.0570854,4,3,95
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114831,6,6,270
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114831,6,5,200
+DHA Defence Phase 5, Islamabad,20,House,33.5280261,73.1668615,6,6,150
+Ghauri Town Phase 2, Islamabad,4,House,33.6185248,73.1263395,3,2,26
+Ghauri Town Phase 4, Islamabad,3.5,House,33.606074,73.1307532,5,5,35
+Khayaban-e-Sir Syed, Rawalpindi,5,House,33.6349808,73.0478913,2,2,32
+Khayaban-e-Sir Syed, Rawalpindi,5,House,33.6349808,73.0478913,2,2,32
+Ghauri Town Phase 4A, Islamabad,5,House,33.606074,73.1307532,3,2,25
+Ghauri Town Phase 4A, Islamabad,3,House,33.606074,73.1307532,3,2,25
+Media Town - Block B, Rawalpindi,11,House,33.5673074,73.122416,6,7,145
+Media Town - Block B, Rawalpindi,11,House,33.5673074,73.122416,6,6,130
+Media Town - Block C, Rawalpindi,10,House,33.560325,73.1244389,6,6,150
+Media Town - Block C, Rawalpindi,12,House,33.560325,73.1244389,6,6,147
+Media Town - Block C, Rawalpindi,12,House,33.560325,73.1244389,6,6,140
+Media Town - Block C, Rawalpindi,10,House,33.560325,73.1244389,6,6,130
+Top City 1 - Block D, Islamabad,10,House,33.6292567,72.8631304,5,4,120
+Top City 1 - Block D, Islamabad,10,House,33.6292567,72.8631304,5,4,110
+Gulshan Abad Sector 2, Rawalpindi,20,House,33.6536997,73.0810675,6,6,70
+Gulshan Abad Sector 3, Rawalpindi,10,House,33.6536997,73.0810675,6,6,75
+Gulshan Abad Sector 3, Rawalpindi,20,House,33.6536997,73.0810675,3,3,60
+MPCHS - Multi Gardens, Islamabad,5,House,33.6360669,72.8279381,4,4,50
+Margalla Town Phase 1, Islamabad,5,House,33.671527,73.1012389,2,1,38
+Soan Garden - Block B, Islamabad,7,House,33.5619396,73.1322738,6,4,72
+Soan Garden - Block F, Islamabad,20,House,33.5605734,73.1507647,4,4,70
+Soan Garden - Block H, Islamabad,6,House,33.5561827,73.1577415,5,4,72
+Soan Garden - Block H, Islamabad,7,House,33.5561824,73.1525916,3,2,42
+Soan Garden - Block H, Islamabad,7,House,33.5561827,73.1577415,3,2,42
+DHA Phase 1 - Sector A, Islamabad,10,House,33.5274971,73.0794983,6,8,140
+DHA Phase 1 - Sector C, Islamabad,20,House,33.5274476,73.0570854,6,5,225
+DHA Phase 2 - Sector H, Islamabad,20,House,33.5276376,73.1114831,6,9,400
+Ghauri Town Phase 4 C2, Islamabad,5,House,33.606074,73.1307532,3,2,22
+Gulraiz Housing Scheme, Rawalpindi,10,House,33.5720405,73.0846196,5,5,40
+Jinnah Gardens Phase 1, Islamabad,8,House,33.5730769,73.1717173,3,2,32
+Tele Garden (T&T ECHS), Islamabad,8,House,33.6292976,72.8758473,3,3,35
+Pakistan Town - Phase 1, Islamabad,10,House,33.6170537,73.1200802,5,6,110
+Pakistan Town - Phase 1, Islamabad,10,House,33.6170537,73.1200802,6,6,100
+Zaraj Scheme - Sector C, Islamabad,10,House,33.514688,73.1429768,5,5,100
+Mumtaz City - Ravi Block, Islamabad,7,House,33.5992169,72.8367535,2,2,40
+Mumtaz City - Ravi Block, Islamabad,6,House,33.5992169,72.8367535,2,2,35
+Samarzar Housing Society, Rawalpindi,3.5,House,33.5262057,73.0484977,2,2,14
+Satellite Town - Block C, Rawalpindi,5,House,33.6455173,73.0591648,4,4,100
+Bahria Enclave - Sector C, Islamabad,20,House,33.6932161,73.1737062,5,5,180
+Bahria Enclave - Sector G, Islamabad,5,House,33.4858467,73.1058886,4,3,65
+Bahria Enclave - Sector G, Islamabad,5,House,33.4858464,73.1007386,4,3,65
+Bahria Enclave - Sector H, Islamabad,5,House,33.6875761,73.1880719,5,5,55
+Bahria Enclave - Sector H, Islamabad,5,House,33.6875761,73.1880719,6,5,75
+Bahria Enclave - Sector H, Islamabad,5,House,33.6875761,73.1880719,4,3,75
+Bahria Enclave - Sector H, Islamabad,5,House,33.6875761,73.1880719,4,3,70
+Bahria Enclave - Sector H, Islamabad,5,House,33.6875761,73.1880719,3,3,65
+Bahria Enclave - Sector H, Islamabad,5,House,33.6875761,73.1880719,4,3,65
+Bahria Enclave - Sector H, Islamabad,5,House,33.6875761,73.1880719,4,3,50
+Bahria Enclave - Sector I, Islamabad,9,House,33.6934551,73.211634,6,5,160
+Bahria Enclave - Sector M, Islamabad,10,House,33.6948196,73.2142236,6,5,200
+Bahria Enclave - Sector M, Islamabad,10,House,33.6948196,73.2142236,5,5,125
+Bahria Enclave - Sector M, Islamabad,10,House,33.6948196,73.2142236,4,4,100
+Naval Anchorage - Block F, Islamabad,20,House,33.5716886,73.1690887,6,6,180
+Naval Anchorage - Block F, Islamabad,20,House,33.5716681,73.1278824,6,6,170
+Rail View Housing Society, Rawalpindi,5,House,33.5981158,73.1180581,2,2,20
+Bahria Town - Civic Centre, Rawalpindi,36,House,33.5502885,73.1213797,5,5,800
+Bahria Town - Civic Centre, Rawalpindi,10,House,33.5502885,73.1213797,5,5,250
+Bahria Town - Civic Centre, Rawalpindi,10,House,33.5502885,73.1213797,5,5,190
+Bahria Town - Civic Centre, Rawalpindi,2.4,House,33.5502885,73.1213797,1,1,35
+CBR Town Phase 1 - Block D, Islamabad,7,House,33.559213,73.1316657,5,4,90
+CBR Town Phase 1 - Block D, Islamabad,7,House,33.559213,73.1316657,2,2,35
+Gulbahar Scheme - Sector 1, Rawalpindi,3,House,33.5852918,73.103149,1,2,10
+Gulbahar Scheme - Sector 1, Rawalpindi,3,House,33.5852931,73.1134492,1,2,10
+National Police Foundation, Islamabad,10,House,33.6755246,73.0276691,3,3,50
+Bahria Intellectual Village, Rawalpindi,20,House,33.52721365,73.09296933,6,7,310
+Bahria Intellectual Village, Rawalpindi,20,House,33.52721365,73.09296933,6,7,300
+Defence Executive Apartments, Islamabad,8.7,House,33.5235641,73.1475531,3,3,65
+Bahria Town - Safari Villas 2, Rawalpindi,10,House,33.538029,73.1083068,4,4,100
+Bahria Town Phase 2 Extension, Rawalpindi,10,House,33.5604831,73.1172967,6,5,110
+Bahria Town Phase 8 - Block B, Rawalpindi,14,House,33.4950996,73.0614319,8,7,180
+Bahria Town Phase 8 - Block B, Rawalpindi,13,House,33.4950996,73.0614319,6,5,120
+Bahria Town Phase 8 - Block B, Rawalpindi,10,House,33.4950996,73.0614319,5,5,95
+Bahria Town Phase 8 - Block B, Rawalpindi,10,House,33.4950996,73.0614319,5,5,90
+Bahria Town Phase 8 - Block B, Rawalpindi,10,House,33.4950996,73.0614319,5,5,88
+Bahria Town Phase 8 - Block B, Rawalpindi,10,House,33.4950996,73.0614319,5,5,85
+Bahria Town Phase 8 - Block C, Rawalpindi,10,House,33.4943477,73.0651262,6,5,110
+Bahria Town Phase 8 - Block M, Rawalpindi,5,House,33.4824564,73.008684,3,3,55
+Bahria Town Phase 8 Extension, Rawalpindi,7,House,33.4786346,73.0460247,3,3,160
+Margalla View Housing Society, Islamabad,4.4,House,33.6684839,72.860548,5,5,45
+Margalla View Housing Society, Islamabad,14,House,33.6684839,72.860548,10,10,150
+Margalla View Housing Society, Islamabad,3.5,House,33.6684839,72.860548,3,3,30
+PWD Housing Society - Block B, Islamabad,12,House,33.5715107,73.1355867,6,6,120
+PWD Housing Society - Block B, Islamabad,10,House,33.5715107,73.1355867,6,6,80
+PWD Housing Society - Block C, Islamabad,10,House,33.5682066,73.1190418,6,6,90
+PWD Housing Society - Block C, Islamabad,10,House,33.5682066,73.1190418,6,4,85
+Gulzar-e-Quaid Housing Society, Rawalpindi,12,House,33.5992105,73.1199147,4,4,50
+Gulzar-e-Quaid Housing Society, Rawalpindi,12,House,33.5992108,73.1250647,4,4,50
+Gulzar-e-Quaid Housing Society, Rawalpindi,20,House,33.5992108,73.1250647,3,3,70
+Gulzar-e-Quaid Housing Society, Rawalpindi,10,House,33.5992108,73.1250647,4,3,55
+Gulzar-e-Quaid Housing Society, Rawalpindi,10,House,33.5992105,73.1199147,3,3,45
+Gulzar-e-Quaid Housing Society, Rawalpindi,10,House,33.5992108,73.1250647,3,3,45
+National Police Foundation O-9, Islamabad,20,House,33.5665034,73.1309104,6,6,160
+National Police Foundation O-9, Islamabad,20,House,33.5665034,73.1309104,6,6,130
+Bahria Safari Valley - Sector A, Rawalpindi,20,House,33.4948794,73.0741286,6,6,195
+Bahria Safari Valley - Sector B, Rawalpindi,8,House,33.4948794,73.0741286,4,5,170
+Bahria Safari Valley - Sector C, Rawalpindi,5,House,33.4948794,73.0741286,2,2,42
+Bahria Safari Valley - Sector C, Rawalpindi,5,House,33.4948794,73.0741286,2,2,36
+Bahria Safari Valley - Sector C, Rawalpindi,5,House,33.4948794,73.0741286,2,2,35
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824564,73.008684,2,3,55
+Bahria Town Phase 8 - Club City, Rawalpindi,20,House,33.4810103,73.0483149,6,6,145
+Gulraiz Housing Society Phase 2, Rawalpindi,20,House,33.5651792,73.0949166,8,6,100
+Gulraiz Housing Society Phase 2, Rawalpindi,10,House,33.5651792,73.0949166,6,6,90
+Gulraiz Housing Society Phase 2, Rawalpindi,10,House,33.5651792,73.0949166,6,6,80
+Gulraiz Housing Society Phase 2, Rawalpindi,5.6,House,33.5651792,73.0949166,4,4,55
+Gulraiz Housing Society Phase 2, Rawalpindi,5,House,33.5651779,73.0846164,4,4,55
+Gulraiz Housing Society Phase 2, Rawalpindi,5,House,33.5651792,73.0949166,4,4,55
+Gulraiz Housing Society Phase 2, Rawalpindi,3,House,33.5651792,73.0949166,2,2,22
+Gulraiz Housing Society Phase 3, Rawalpindi,10,House,33.5678535,73.1022847,6,6,80
+Gulraiz Housing Society Phase 3, Rawalpindi,12,House,33.5678535,73.1022847,6,5,85
+Gulraiz Housing Society Phase 3, Rawalpindi,7,House,33.5678535,73.1022847,6,5,65
+Gulraiz Housing Society Phase 3, Rawalpindi,12,House,33.5678535,73.1022847,5,4,85
+Gulraiz Housing Society Phase 3, Rawalpindi,10,House,33.5678535,73.1022847,6,4,85
+Gulraiz Housing Society Phase 3, Rawalpindi,7,House,33.5678535,73.1022847,4,4,65
+Gulraiz Housing Society Phase 4, Rawalpindi,20,House,33.5651792,73.0949194,6,5,115
+Gulraiz Housing Society Phase 4, Rawalpindi,14,House,33.5651779,73.0846193,4,3,45
+Gulraiz Housing Society Phase 4, Rawalpindi,14,House,33.5651792,73.0949194,4,3,45
+Gulraiz Housing Society Phase 6, Rawalpindi,10,House,33.5651792,73.0949166,5,5,130
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824564,73.008684,4,5,75
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824788,73.0560701,3,3,82
+Emaar Canyon Views - Alma 1 Block, Islamabad,14,House,33.5171089,73.1832663,3,3,100
+Airport Housing Society - Sector 1, Rawalpindi,20,House,33.5908069,73.1204781,6,8,100
+Airport Housing Society - Sector 1, Rawalpindi,20,House,33.5908072,73.1256281,6,6,150
+Airport Housing Society - Sector 1, Rawalpindi,20,House,33.5908069,73.1204781,6,6,120
+Airport Housing Society - Sector 2, Rawalpindi,5,House,33.5901064,73.1268218,4,4,50
+Airport Housing Society - Sector 3, Rawalpindi,3,House,33.5870034,73.130228,3,3,2.7
+Airport Housing Society - Sector 4, Rawalpindi,5,House,33.5939104,73.125769,4,4,50
+Airport Housing Society - Sector 4, Rawalpindi,5,House,33.5939104,73.125769,6,4,50
+Airport Housing Society - Sector 4, Rawalpindi,5,House,33.5939104,73.125769,4,4,45
+Airport Housing Society - Sector 4, Rawalpindi,9,House,33.5939104,73.125769,3,3,32
+Airport Housing Society - Sector 4, Rawalpindi,5,House,33.5939104,73.125769,3,2,26
+Bahria Business District - Block C, Rawalpindi,10,House,33.500726,73.0593633,5,5,100
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,8,House,33.4824437,73.0085635,3,3,75
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824437,73.0085635,2,2,36
+Bahria Town Phase 8 - Awami Villas 1, Rawalpindi,5,House,33.4984528,73.0988222,1,2,55
+Bahria Town Phase 8 - Awami Villas 1, Rawalpindi,5,House,33.4984528,73.0988222,1,2,50
+Bahria Town Phase 8 - Awami Villas 1, Rawalpindi,5,House,33.4984528,73.0988222,1,2,30
+Bahria Town Phase 8 - Awami Villas 1, Rawalpindi,5,House,33.4984528,73.0988222,1,2,28
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4960007,73.1078767,2,2,65
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4960007,73.1078767,1,2,63
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4961635,73.1075361,1,2,60
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4960007,73.1078767,2,2,34
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4960007,73.1078767,2,2,33
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4961635,73.1075361,1,2,31
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4960007,73.1078767,1,2,31
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4960007,73.1078767,1,2,30
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4961635,73.1075361,1,2,30
+Bahria Town Phase 8 - Awami Villas 2, Rawalpindi,5,House,33.4960007,73.1078767,2,2,25
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,8,House,33.4824788,73.0560701,5,5,85
+Bahria Town Phase 3 - Executive Lodges, Rawalpindi,22,House,33.5517181,73.12228539,5,7,235
+National Police Foundation O-9 - Block B, Islamabad,20,House,33.5677534,73.1310641,6,6,130
+National Police Foundation O-9 - Block C, Islamabad,10,House,33.5677534,73.1310641,5,5,110
+National Police Foundation O-9 - Block C, Islamabad,5,House,33.5677534,73.1310641,4,4,55
+National Police Foundation O-9 - Block D, Islamabad,20,House,33.5665034,73.1309104,4,3,60
+Bahria Town Phase 8 - Eden Lake View Block, Rawalpindi,10,House,33.502684,73.0854677,6,5,115
+Bahria Town Phase 8 - Eden Lake View Block, Rawalpindi,10,House,33.502684,73.0854677,5,5,95
+Bahria Town Phase 8 - Eden Lake View Block, Rawalpindi,10,House,33.502684,73.0854677,3,3,62
+Bahria Greens - Overseas Enclave - Sector 3, Rawalpindi,20,House,33.5080044,73.0597254,6,5,210
+E-7, Islamabad,40,House,33.7253134,73.04544231,6,8,1600
+E-7, Islamabad,40,House,33.7253134,73.04544231,6,7,1300
+E-7, Islamabad,24,House,33.7253134,73.04544231,6,6,820
+E-7, Islamabad,24,House,33.7253134,73.04544231,6,6,600
+E-7, Islamabad,24,House,33.7253134,73.04544231,6,5,700
+E-7, Islamabad,40,House,33.7253134,73.04544231,5,4,760
+E-7, Islamabad,28,House,33.7253134,73.04544231,5,4,760
+E-7, Islamabad,20,House,33.7253134,73.04544231,4,3,400
+F-6, Islamabad,48,House,33.7286213,73.0735239,5,5,2200
+F-6, Islamabad,64,House,33.7286213,73.0735239,5,11,2200
+F-6, Islamabad,40,House,33.7286213,73.0735239,5,11,1675
+F-6, Islamabad,40,House,33.7286213,73.0735239,6,10,900
+F-6, Islamabad,80,House,33.7286213,73.0735239,5,9,3000
+F-6, Islamabad,40,House,33.7286213,73.0735239,6,9,2200
+F-6, Islamabad,26,House,33.7286213,73.0735239,9,9,1000
+F-6, Islamabad,80,House,33.7286213,73.0735239,6,8,3000
+F-6, Islamabad,48,House,33.7286213,73.0735239,5,8,2200
+F-6, Islamabad,48,House,33.7286213,73.0735239,6,8,1500
+F-6, Islamabad,40,House,33.7286213,73.0735239,6,8,1500
+F-6, Islamabad,40,House,33.7286213,73.0735239,9,8,1400
+F-6, Islamabad,90,House,33.7286213,73.0735239,6,7,3000
+F-6, Islamabad,50,House,33.7286213,73.0735239,6,7,2000
+F-6, Islamabad,40,House,33.7286213,73.0735239,8,7,1680
+F-6, Islamabad,72,House,33.7286213,73.0735239,6,7,1500
+F-6, Islamabad,22,House,33.7286213,73.0735239,6,7,1250
+F-6, Islamabad,44,House,33.7286213,73.0735239,6,7,1200
+F-6, Islamabad,40,House,33.7286213,73.0735239,7,7,1100
+F-6, Islamabad,40,House,33.7286213,73.0735239,6,7,800
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,7,800
+F-6, Islamabad,20,House,33.7286213,73.0735239,6,7,750
+F-6, Islamabad,17.8,House,33.7286213,73.0735239,8,7,750
+F-6, Islamabad,40,House,33.7286213,73.0735239,6,6,1700
+F-6, Islamabad,20,House,33.7286213,73.0735239,6,6,1350
+F-6, Islamabad,48,House,33.7286213,73.0735239,7,6,1280
+F-6, Islamabad,30,House,33.7286213,73.0735239,6,6,1200
+F-6, Islamabad,28,House,33.7286213,73.0735239,6,6,1200
+F-6, Islamabad,26,House,33.7286213,73.0735239,6,6,1200
+F-6, Islamabad,48,House,33.7286213,73.0735239,5,6,1200
+F-6, Islamabad,16,House,33.7286213,73.0735239,6,6,1150
+F-6, Islamabad,22,House,33.7286213,73.0735239,6,6,1000
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,6,920
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,6,800
+F-6, Islamabad,40,House,33.7286213,73.0735239,6,6,780
+F-6, Islamabad,22,House,33.7286213,73.0735239,6,6,750
+F-6, Islamabad,80,House,33.7286213,73.0735239,6,5,2200
+F-6, Islamabad,80,House,33.7286213,73.0735239,6,5,2000
+F-6, Islamabad,40,House,33.7286213,73.0735239,5,5,1400
+F-6, Islamabad,32,House,33.7286213,73.0735239,6,5,1255
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,5,1250
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,5,1125
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,5,1075
+F-6, Islamabad,17.8,House,33.7286213,73.0735239,6,5,1065
+F-6, Islamabad,80,House,33.7286213,73.0735239,5,5,1000
+F-6, Islamabad,20,House,33.7286213,73.0735239,6,5,825
+F-6, Islamabad,26,House,33.7286213,73.0735239,6,5,800
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,5,800
+F-6, Islamabad,12,House,33.7286213,73.0735239,6,5,750
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,5,740
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,5,720
+F-6, Islamabad,24,House,33.7286213,73.0735239,5,5,700
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,5,700
+F-6, Islamabad,26,House,33.7286213,73.0735239,6,5,700
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,5,700
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,5,680
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,5,650
+F-6, Islamabad,40,House,33.7286213,73.0735239,6,5,650
+F-6, Islamabad,24,House,33.7286213,73.0735239,6,5,650
+F-6, Islamabad,48,House,33.7286213,73.0735239,5,4,1030
+F-6, Islamabad,50,House,33.7286213,73.0735239,5,4,1000
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,4,925
+F-6, Islamabad,40,House,33.7286213,73.0735239,4,4,900
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,4,855
+F-6, Islamabad,24,House,33.7286213,73.0735239,4,4,850
+F-6, Islamabad,22,House,33.7286213,73.0735239,4,4,850
+F-6, Islamabad,32,House,33.7286213,73.0735239,5,4,850
+F-6, Islamabad,5.8,House,33.7286213,73.0735239,5,4,850
+F-6, Islamabad,40,House,33.7286213,73.0735239,4,4,765
+F-6, Islamabad,40,House,33.7286213,73.0735239,5,4,750
+F-6, Islamabad,26,House,33.7286213,73.0735239,5,4,730
+F-6, Islamabad,24,House,33.7286213,73.0735239,4,4,700
+F-6, Islamabad,22,House,33.7286213,73.0735239,5,4,655
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,4,650
+F-6, Islamabad,20,House,33.7286213,73.0735239,5,4,600
+F-6, Islamabad,22,House,33.7286213,73.0735239,3,3,500
+F-6, Islamabad,22,House,33.7286213,73.0735239,3,3,455
+F-6, Islamabad,20,House,33.7286213,73.0735239,3,3,450
+F-6, Islamabad,20,House,33.7286213,73.0735239,3,3,400
+F-6, Islamabad,6.7,House,33.7286213,73.0735239,2,2,75
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,8,House,33.503346,73.0908442,5,5,80
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,8,House,33.503346,73.0908442,5,5,75
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,8,House,33.503346,73.0908442,5,5,70
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,4,4,70
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,4,4,60
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,4,4,50
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,4,3,70
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,3,3,65
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,6,House,33.503346,73.0908442,3,3,60
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,4,3,60
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,4,3,58
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,3,3,55
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,4,3,55
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,4,3,54
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,3,3,52
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,4,3,52
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.503346,73.0908442,3,3,50
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,5,5,300
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,5,5,110
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,5,5,80
+Bahria Town Phase 8, Rawalpindi,14,House,33.53082195,73.11836633,6,8,165
+Bahria Town Phase 8, Rawalpindi,20,House,33.53082195,73.11836633,6,6,250
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,6,250
+Bahria Town Phase 8, Rawalpindi,8,House,33.53082195,73.11836633,6,6,230
+Bahria Town Phase 8, Rawalpindi,20,House,33.53082195,73.11836633,6,6,220
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,6,195
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,6,185
+Bahria Town Phase 8, Rawalpindi,20,House,33.53082195,73.11836633,5,5,400
+Bahria Town Phase 8, Rawalpindi,20,House,33.53082195,73.11836633,5,5,350
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,5,5,260
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,250
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,230
+Bahria Town Phase 8, Rawalpindi,20,House,33.53082195,73.11836633,6,5,220
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,220
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,220
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,5,5,210
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,210
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,5,5,200
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,200
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,130
+Bahria Town Phase 8, Rawalpindi,11,House,33.53082195,73.11836633,6,5,120
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,120
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,5,5,115
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,110
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,5,5,105
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,105
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,5,5,100
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,100
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,99
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,98
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,97
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,96
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,5,5,95
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,6,5,95
+Bahria Town Phase 8, Rawalpindi,10,House,33.53082195,73.11836633,5,5,90
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,5,5,90
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,87
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,86
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,5,5,85
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,85
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,83
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,82
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,80
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,79
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,78
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,77
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,5,5,76
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,4,5,75
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,5,5,75
+Bahria Town Phase 8, Rawalpindi,8,House,33.53082195,73.11836633,6,5,75
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,75
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,7,5,75
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,5,5,73
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,5,5,70
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,70
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,60
+Bahria Town Phase 8, Rawalpindi,20,House,33.53082195,73.11836633,5,4,200
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,5,4,180
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,5,4,170
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,4,165
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,5,4,150
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,4,145
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,4,60
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,5,4,60
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,5,4,55
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,4,50
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,160
+Bahria Town Phase 8, Rawalpindi,8,House,33.53082195,73.11836633,3,3,150
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,3,3,150
+Bahria Town Phase 8, Rawalpindi,8,House,33.53082195,73.11836633,4,3,150
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,150
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,120
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,3,3,100
+Bahria Town Phase 8, Rawalpindi,8,House,33.53082195,73.11836633,3,3,60
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,3,3,60
+Bahria Town Phase 8, Rawalpindi,8,House,33.53082195,73.11836633,4,3,60
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,60
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,3,3,58
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,58
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,5,3,58
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,57
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,56
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,5,3,56
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,3,3,55
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,55
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,5,3,55
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,53
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,2,3,50
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,3,3,50
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,4,3,50
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,3,3,35
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,1,2,65
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,2,2,65
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,1,2,35
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,2,1,32
+Bahria Town Phase 8 - Block M, Rawalpindi,5,House,33.4824769,73.0497698,5,4,50
+Bahria Town Phase 8 - Block M, Rawalpindi,5,House,33.4824769,73.0497698,3,3,50
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,6,House,33.4824642,73.0497698,5,5,60
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,8,House,33.4824642,73.0497698,3,3,170
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,8,House,33.4824642,73.0497698,3,3,165
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,8,House,33.4824642,73.0497698,3,3,120
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,3,65
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,8,House,33.4824642,73.0497698,3,3,65
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,8,House,33.4824642,73.0497698,3,3,60
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,3,3,57
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,3,3,55
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,3,3,50
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,4,3,50
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,3,3,49.5
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,3,3,45
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,3,35
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,2,65
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,2,60
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,2,40
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,2,38
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,2,36
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,2,35
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,2,34
+Bahria Town Phase 8 - Safari Homes, Rawalpindi,5,House,33.4824642,73.0497698,2,2,33
+Airport Housing Society, Rawalpindi,9,House,33.5941022,73.1307386,6,6,75
+Airport Housing Society, Rawalpindi,8,House,33.5941022,73.1307386,6,6,65
+Airport Housing Society, Rawalpindi,5,House,33.5941022,73.1307386,4,4,53
+Airport Housing Society, Rawalpindi,5.5,House,33.5941022,73.1307386,4,4,52
+Airport Housing Society, Rawalpindi,6,House,33.5941022,73.1307386,4,4,49
+Airport Housing Society, Rawalpindi,5,House,33.5941022,73.1307386,4,4,45
+Airport Housing Society, Rawalpindi,8,House,33.5941022,73.1307386,3,3,40
+Airport Housing Society, Rawalpindi,5,House,33.5941022,73.1307386,3,2,25
+Airport Housing Society, Rawalpindi,3,House,33.5941022,73.1307386,2,2,15
+Bahria Enclave - Sector N, Islamabad,5,House,33.6924326,73.1847012,5,5,55
+Bahria Enclave - Sector N, Islamabad,5,House,33.6924326,73.1847012,5,5,40
+Bahria Enclave - Sector N, Islamabad,8,House,33.6924326,73.1847012,6,7,100
+Bahria Enclave - Sector N, Islamabad,10,House,33.6924326,73.1847012,5,5,100
+Bahria Enclave - Sector N, Islamabad,8,House,33.6924326,73.1847012,5,5,100
+Bahria Enclave - Sector N, Islamabad,8,House,33.6924326,73.1847012,4,3,92
+Bahria Enclave - Sector N, Islamabad,8,House,33.6924326,73.1847012,4,3,85
+Bahria Enclave - Sector N, Islamabad,5,House,33.6924326,73.1847012,3,3,75
+Bahria Enclave - Sector N, Islamabad,5,House,33.6924326,73.1847012,4,3,70
+Bahria Enclave - Sector N, Islamabad,5,House,33.6924326,73.1847012,4,3,65
+Bahria Enclave - Sector N, Islamabad,5,House,33.6924326,73.1847012,4,3,60
+Bahria Enclave - Sector N, Islamabad,5,House,33.6924326,73.1847012,4,3,58
+Bahria Enclave - Sector N, Islamabad,5,House,33.6924326,73.1847012,4,3,57
+Bahria Enclave - Sector N, Islamabad,5,House,33.6924326,73.1847012,4,3,55
+Ghauri Town Phase 4A, Islamabad,7,House,33.606074,73.1307532,6,5,82
+Ghauri Town Phase 4A, Islamabad,5,House,33.606074,73.1307532,4,4,52
+Ghauri Town Phase 4A, Islamabad,5,House,33.606074,73.1307532,4,4,45
+Ghauri Town Phase 4A, Islamabad,4,House,33.606074,73.1307532,4,3,38
+Ghauri Town Phase 4A, Islamabad,5,House,33.606074,73.1307532,3,3,30
+Ghauri Town Phase 4A, Islamabad,3,House,33.606074,73.1307532,2,2,25
+Ghauri Town Phase 4A, Islamabad,5,House,33.606074,73.1307532,3,2,23
+Ghauri Town Phase 4A, Islamabad,3,House,33.606074,73.1307532,2,2,19
+F-11, Islamabad,30,House,33.6843932,72.989544,6,10,500
+F-11, Islamabad,26,House,33.6843932,72.989544,9,9,500
+F-11, Islamabad,26,House,33.6843932,72.989544,6,8,700
+F-11, Islamabad,20,House,33.6843932,72.989544,6,7,300
+F-11, Islamabad,40,House,33.6843932,72.989544,6,6,750
+F-11, Islamabad,40,House,33.6843932,72.989544,6,6,700
+F-11, Islamabad,26,House,33.6843932,72.989544,6,6,600
+F-11, Islamabad,20,House,33.6843932,72.989544,6,6,500
+F-11, Islamabad,26,House,33.6843932,72.989544,6,6,450
+F-11, Islamabad,26,House,33.6843932,72.989544,5,5,500
+F-11, Islamabad,40,House,33.6843932,72.989544,5,5,450
+F-11, Islamabad,20,House,33.6843932,72.989544,6,5,450
+F-11, Islamabad,20,House,33.6843932,72.989544,5,5,400
+F-11, Islamabad,20,House,33.6843932,72.989544,6,5,350
+F-11, Islamabad,20,House,33.6843932,72.989544,5,5,330
+F-11, Islamabad,20,House,33.6843932,72.989544,5,5,315
+F-11, Islamabad,24,House,33.6843932,72.989544,5,5,295
+F-11, Islamabad,7,House,33.6843932,72.989544,4,4,200
+F-11/1, Islamabad,20,House,33.67508125,72.98618314,6,7,300
+F-11/1, Islamabad,20,House,33.67508125,72.98618314,6,6,280
+F-11/2, Islamabad,20,House,33.68321325,72.98111758,4,4,500
+F-11/2, Islamabad,26,House,33.68321325,72.98111758,6,4,490
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,5,5,85
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,6,6,85
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,5,5,100
+Bahria Enclave - Sector B1, Islamabad,5.5,House,33.6980301,73.2177949,5,4,78.5
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,4,4,68
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,4,3,100
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,3,3,95
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,4,3,85
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,3,3,80
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,4,3,80
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,3,3,75
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,4,3,73
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,3,3,70
+Bahria Enclave - Sector B1, Islamabad,5,House,33.6980301,73.2177949,4,3,65
+Islamabad, Islamabad,7,House,33.6938118,73.0651511,5,5,50
+Islamabad, Islamabad,3.1,House,33.6938118,73.0651511,5,5,28
+Islamabad, Islamabad,12,House,33.6938118,73.0651511,6,6,152
+Islamabad, Islamabad,7,House,33.6938118,73.0651511,6,6,95
+Islamabad/1, Islamabad,8,House,33.5198565,73.17606667,5,5,100
+Islamabad/1, Islamabad,40,House,33.5198565,73.17606667,6,10,450
+Islamabad/1, Islamabad,8,House,33.5198565,73.17606667,6,8,130
+Islamabad/3, Islamabad,40,House,33.66361245,73.02663611,5,5,650
+Islamabad Markaz, Islamabad,3.6,House,33.7112418,73.0393747,2,2,30
+Snober City, Rawalpindi,12,House,33.5210372,73.0492313,5,5,40
+Snober City, Rawalpindi,5,House,33.5210372,73.0492313,5,5,35
+Snober City, Rawalpindi,4,House,33.5210372,73.0492313,5,5,25
+Snober City, Rawalpindi,12,House,33.5210372,73.0492313,5,4,38
+Snober City, Rawalpindi,5,House,33.5210372,73.0492313,4,4,35
+Snober City, Rawalpindi,5,House,33.5210372,73.0492313,4,4,31
+Snober City, Rawalpindi,5,House,33.5210372,73.0492313,4,4,30
+Snober City, Rawalpindi,4,House,33.5210372,73.0492313,4,4,30
+Snober City, Rawalpindi,5,House,33.5210372,73.0492313,3,3,32
+Snober City, Rawalpindi,5,House,33.5210372,73.0492313,2,2,25
+Snober City, Rawalpindi,4,House,33.5210372,73.0492313,2,2,20
+Snober City - Green Villas, Rawalpindi,5,House,33.5210372,73.0492313,4,4,35
+Snober City - Green Villas, Rawalpindi,0,House,33.5210372,73.0492313,4,4,32
+Snober City - Green Villas, Rawalpindi,5,House,33.5210372,73.0492313,3,2,25
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4935231,73.048281,5,5,73
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4935231,73.048281,5,5,70
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4935231,73.048281,6,5,230
+Bahria Town Phase 8 - Umer Block, Rawalpindi,8,House,33.4935231,73.048281,6,5,220
+Bahria Town Phase 8 - Umer Block, Rawalpindi,10,House,33.4935231,73.048281,5,5,160
+Bahria Town Phase 8 - Umer Block, Rawalpindi,8,House,33.4935231,73.048281,6,5,85
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4935231,73.048281,5,5,75
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4935231,73.048281,5,5,68
+Bahria Town Phase 8 - Umer Block, Rawalpindi,5,House,33.4935231,73.048281,4,3,210
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4935231,73.048281,3,3,95
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4935231,73.048281,3,3,80
+Bahria Town Phase 8 - Khalid Block, Rawalpindi,8,House,33.4941923,73.048281,5,5,80
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.487967,73.0494372,5,6,110
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.487967,73.0494372,6,5,400
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.487967,73.0494372,6,5,125
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.487967,73.0494372,5,5,120
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.4887319,73.0494372,5,5,120
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.4887319,73.0494372,6,5,120
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.487967,73.0494372,6,5,115
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.487967,73.0494372,6,5,110
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.4887319,73.0494372,6,5,110
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.4887319,73.0494372,5,5,105
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,12,House,33.487967,73.0494372,6,5,105
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.487967,73.0494372,5,5,95
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.4887319,73.0494372,6,5,85
+Bahria Town Phase 8 - Sector F-1, Rawalpindi,10,House,33.487967,73.0494372,2,2,120
+G-13, Islamabad,4,House,33.6514525,72.9620722,5,5,95
+G-13, Islamabad,14,House,33.6514525,72.9620722,6,10,350
+G-13, Islamabad,14.2,House,33.6514525,72.9620722,6,9,350
+G-13, Islamabad,14,House,33.6514525,72.9620722,6,6,330
+G-13, Islamabad,14,House,33.6514525,72.9620722,6,6,260
+G-13, Islamabad,20,House,33.6514525,72.9620722,6,6,235
+G-13, Islamabad,10,House,33.6514525,72.9620722,6,6,160
+G-13, Islamabad,7,House,33.6514525,72.9620722,6,6,150
+G-13, Islamabad,8,House,33.6514525,72.9620722,6,6,140
+G-13, Islamabad,8,House,33.6514525,72.9620722,6,6,136
+G-13, Islamabad,14.2,House,33.6514525,72.9620722,6,5,220
+G-13, Islamabad,8,House,33.6514525,72.9620722,6,5,150
+G-13, Islamabad,7,House,33.6514525,72.9620722,6,5,150
+G-13, Islamabad,7,House,33.6514525,72.9620722,5,5,142
+G-13, Islamabad,7,House,33.6514525,72.9620722,6,5,135
+G-13, Islamabad,8,House,33.6514525,72.9620722,5,5,125
+G-13, Islamabad,4,House,33.6514525,72.9620722,5,5,90
+G-13, Islamabad,7,House,33.6514525,72.9620722,4,4,150
+G-13, Islamabad,10,House,33.6514525,72.9620722,5,4,145
+G-13, Islamabad,8,House,33.6514525,72.9620722,6,4,130
+G-13, Islamabad,8,House,33.6514525,72.9620722,4,4,125
+G-13, Islamabad,4,House,33.6514525,72.9620722,4,4,100
+G-13, Islamabad,4.4,House,33.6514525,72.9620722,5,4,100
+G-13, Islamabad,4,House,33.6514525,72.9620722,4,4,95
+G-13, Islamabad,4.4,House,33.6514525,72.9620722,5,4,95
+G-13, Islamabad,4,House,33.6514525,72.9620722,5,4,95
+G-13, Islamabad,4,House,33.6514525,72.9620722,5,4,90
+G-13, Islamabad,4,House,33.6514525,72.9620722,4,4,85
+G-13, Islamabad,4.4,House,33.6514525,72.9620722,5,4,85
+G-13, Islamabad,4,House,33.6514525,72.9620722,4,4,80
+G-13, Islamabad,4,House,33.6514525,72.9620722,2,2,40
+G-13/1, Islamabad,4,House,33.6453213,72.96110011,4,4,100
+G-13/1, Islamabad,4.4,House,33.6453213,72.96110011,4,4,95
+G-13/1, Islamabad,4,House,33.6453213,72.96110011,4,4,90
+G-13/1, Islamabad,4,House,33.6453213,72.96110011,4,4,84
+G-13/3, Islamabad,7,House,33.6555379,72.96508744,5,4,125
+G-13/3, Islamabad,7,House,33.6555379,72.96508744,3,2,95
+F-7, Islamabad,80,House,33.7204333,73.0561174,6,11,2200
+F-7, Islamabad,80,House,33.7204333,73.0561174,5,11,2200
+F-7, Islamabad,72,House,33.7204333,73.0561174,10,10,2500
+F-7, Islamabad,60,House,33.7204333,73.0561174,5,10,1200
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,10,1000
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,10,900
+F-7, Islamabad,30,House,33.7204333,73.0561174,5,10,700
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,9,2200
+F-7, Islamabad,80,House,33.7204333,73.0561174,5,8,3000
+F-7, Islamabad,50,House,33.7204333,73.0561174,6,8,2500
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,8,2500
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,8,2100
+F-7, Islamabad,40,House,33.7204333,73.0561174,6,8,1500
+F-7, Islamabad,32,House,33.7204333,73.0561174,6,8,1500
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,8,1200
+F-7, Islamabad,20,House,33.7204333,73.0561174,9,8,1000
+F-7, Islamabad,20,House,33.7204333,73.0561174,5,8,650
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,8,600
+F-7, Islamabad,42,House,33.7204333,73.0561174,6,7,2000
+F-7, Islamabad,40,House,33.7204333,73.0561174,6,7,1800
+F-7, Islamabad,42,House,33.7204333,73.0561174,6,7,1500
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,7,1500
+F-7, Islamabad,40,House,33.7204333,73.0561174,6,7,1300
+F-7, Islamabad,32,House,33.7204333,73.0561174,6,7,1300
+F-7, Islamabad,40,House,33.7204333,73.0561174,5,7,1300
+F-7, Islamabad,44,House,33.7204333,73.0561174,6,7,1200
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,7,1200
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,7,1200
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,7,1150
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,7,1100
+F-7, Islamabad,22,House,33.7204333,73.0561174,8,7,1030
+F-7, Islamabad,30,House,33.7204333,73.0561174,6,7,1000
+F-7, Islamabad,24,House,33.7204333,73.0561174,5,7,900
+F-7, Islamabad,22,House,33.7204333,73.0561174,5,7,880
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,7,800
+F-7, Islamabad,20,House,33.7204333,73.0561174,8,7,775
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,7,500
+F-7, Islamabad,22,House,33.7204333,73.0561174,6,6,2800
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,6,1800
+F-7, Islamabad,26,House,33.7204333,73.0561174,7,6,1600
+F-7, Islamabad,32,House,33.7204333,73.0561174,6,6,1500
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,6,1500
+F-7, Islamabad,20,House,33.7204333,73.0561174,7,6,1425
+F-7, Islamabad,24,House,33.7204333,73.0561174,5,6,1300
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,6,1250
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,6,1200
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,6,1050
+F-7, Islamabad,24,House,33.7204333,73.0561174,7,6,1035
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,6,1000
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,6,1000
+F-7, Islamabad,28,House,33.7204333,73.0561174,6,6,900
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,6,900
+F-7, Islamabad,12,House,33.7204333,73.0561174,5,6,880
+F-7, Islamabad,40,House,33.7204333,73.0561174,5,6,875
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,6,820
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,6,800
+F-7, Islamabad,32,House,33.7204333,73.0561174,6,6,750
+F-7, Islamabad,22,House,33.7204333,73.0561174,6,6,750
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,6,740
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,6,720
+F-7, Islamabad,50,House,33.7204333,73.0561174,6,6,700
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,6,700
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,6,700
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,6,650
+F-7, Islamabad,22,House,33.7204333,73.0561174,7,6,630
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,6,600
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,6,510
+F-7, Islamabad,40,House,33.7204333,73.0561174,5,5,1300
+F-7, Islamabad,30,House,33.7204333,73.0561174,6,5,1200
+F-7, Islamabad,22,House,33.7204333,73.0561174,6,5,1055
+F-7, Islamabad,24,House,33.7204333,73.0561174,5,5,850
+F-7, Islamabad,48,House,33.7204333,73.0561174,6,5,850
+F-7, Islamabad,40,House,33.7204333,73.0561174,6,5,850
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,5,850
+F-7, Islamabad,40,House,33.7204333,73.0561174,6,5,825
+F-7, Islamabad,40,House,33.7204333,73.0561174,6,5,820
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,5,800
+F-7, Islamabad,20,House,33.7204333,73.0561174,5,5,750
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,5,750
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,5,735
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,5,700
+F-7, Islamabad,24,House,33.7204333,73.0561174,5,5,700
+F-7, Islamabad,20,House,33.7204333,73.0561174,5,5,700
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,5,700
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,5,700
+F-7, Islamabad,24,House,33.7204333,73.0561174,6,5,655
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,5,650
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,5,650
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,5,645
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,5,600
+F-7, Islamabad,22,House,33.7204333,73.0561174,5,5,550
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,5,550
+F-7, Islamabad,22,House,33.7204333,73.0561174,5,5,525
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,5,500
+F-7, Islamabad,22,House,33.7204333,73.0561174,6,5,500
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,4,1000
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,4,950
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,4,930
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,4,900
+F-7, Islamabad,48,House,33.7204333,73.0561174,5,4,855
+F-7, Islamabad,72,House,33.7204333,73.0561174,5,4,850
+F-7, Islamabad,40,House,33.7204333,73.0561174,5,4,850
+F-7, Islamabad,36,House,33.7204333,73.0561174,5,4,825
+F-7, Islamabad,40,House,33.7204333,73.0561174,5,4,800
+F-7, Islamabad,20,House,33.7204333,73.0561174,5,4,780
+F-7, Islamabad,20,House,33.7204333,73.0561174,4,4,750
+F-7, Islamabad,40,House,33.7204333,73.0561174,5,4,730
+F-7, Islamabad,50,House,33.7204333,73.0561174,4,4,700
+F-7, Islamabad,32,House,33.7204333,73.0561174,4,4,700
+F-7, Islamabad,24,House,33.7204333,73.0561174,4,4,700
+F-7, Islamabad,26,House,33.7204333,73.0561174,5,4,700
+F-7, Islamabad,22,House,33.7204333,73.0561174,5,4,630
+F-7, Islamabad,20,House,33.7204333,73.0561174,5,4,610
+F-7, Islamabad,20,House,33.7204333,73.0561174,4,4,600
+F-7, Islamabad,20,House,33.7204333,73.0561174,5,4,575
+F-7, Islamabad,40,House,33.7204333,73.0561174,4,4,500
+F-7, Islamabad,20,House,33.7204333,73.0561174,4,4,450
+F-7, Islamabad,20,House,33.7204333,73.0561174,4,3,650
+F-7, Islamabad,20,House,33.7204333,73.0561174,3,3,550
+F-7, Islamabad,20,House,33.7204333,73.0561174,3,3,500
+F-7, Islamabad,20,House,33.7204333,73.0561174,4,3,500
+F-7, Islamabad,20,House,33.7204333,73.0561174,4,3,480
+F-7, Islamabad,20,House,33.7204333,73.0561174,3,3,450
+F-7, Islamabad,20,House,33.7204333,73.0561174,4,3,400
+F-7, Islamabad,20,House,33.7204333,73.0561174,4,3,380
+F-7, Islamabad,20,House,33.7204333,73.0561174,3,3,370
+F-7, Islamabad,20,House,33.7204333,73.0561174,3,3,280
+F-7/4, Islamabad,40,House,33.72149525,73.0642062,6,11,2500
+F-7/4, Islamabad,42,House,33.72149525,73.0642062,6,5,700
+F-7/4, Islamabad,30,House,33.72149525,73.0642062,3,3,350
+F-8, Islamabad,80,House,33.7115043,73.0396002,10,10,2200
+F-8, Islamabad,48,House,33.7115043,73.0396002,5,10,1050
+F-8, Islamabad,42,House,33.7115043,73.0396002,10,10,1030
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,10,950
+F-8, Islamabad,20,House,33.7115043,73.0396002,10,9,1800
+F-8, Islamabad,26,House,33.7115043,73.0396002,10,9,1000
+F-8, Islamabad,40,House,33.7115043,73.0396002,9,8,2300
+F-8, Islamabad,36,House,33.7115043,73.0396002,6,8,2000
+F-8, Islamabad,48,House,33.7115043,73.0396002,5,8,2000
+F-8, Islamabad,72,House,33.7115043,73.0396002,5,8,1800
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,8,1500
+F-8, Islamabad,36,House,33.7115043,73.0396002,6,8,1500
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,8,800
+F-8, Islamabad,36,House,33.7115043,73.0396002,6,8,800
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,8,800
+F-8, Islamabad,40,House,33.7115043,73.0396002,8,7,2255
+F-8, Islamabad,40,House,33.7115043,73.0396002,8,7,2055
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,7,1800
+F-8, Islamabad,40,House,33.7115043,73.0396002,5,7,1800
+F-8, Islamabad,26,House,33.7115043,73.0396002,6,7,1100
+F-8, Islamabad,24,House,33.7115043,73.0396002,8,7,900
+F-8, Islamabad,26,House,33.7115043,73.0396002,5,7,850
+F-8, Islamabad,40,House,33.7115043,73.0396002,8,7,825
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,7,750
+F-8, Islamabad,30,House,33.7115043,73.0396002,5,7,750
+F-8, Islamabad,44,House,33.7115043,73.0396002,6,7,700
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,7,600
+F-8, Islamabad,40,House,33.7115043,73.0396002,5,6,1750
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,6,1700
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,6,1550
+F-8, Islamabad,72,House,33.7115043,73.0396002,6,6,1200
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,6,1200
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,6,1000
+F-8, Islamabad,32,House,33.7115043,73.0396002,7,6,980
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,6,950
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,6,930
+F-8, Islamabad,26,House,33.7115043,73.0396002,6,6,900
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,6,875
+F-8, Islamabad,40,House,33.7115043,73.0396002,7,6,855
+F-8, Islamabad,26,House,33.7115043,73.0396002,6,6,850
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,6,850
+F-8, Islamabad,22,House,33.7115043,73.0396002,6,6,850
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,6,800
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,6,800
+F-8, Islamabad,26,House,33.7115043,73.0396002,5,6,800
+F-8, Islamabad,22,House,33.7115043,73.0396002,7,6,755
+F-8, Islamabad,36,House,33.7115043,73.0396002,6,6,750
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,6,750
+F-8, Islamabad,26,House,33.7115043,73.0396002,6,6,730
+F-8, Islamabad,22,House,33.7115043,73.0396002,7,6,710
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,6,700
+F-8, Islamabad,26,House,33.7115043,73.0396002,6,6,700
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,6,700
+F-8, Islamabad,22,House,33.7115043,73.0396002,6,6,590
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,6,500
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,5,1300
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,5,1300
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,5,1000
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,5,950
+F-8, Islamabad,44,House,33.7115043,73.0396002,6,5,900
+F-8, Islamabad,26,House,33.7115043,73.0396002,5,5,850
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,5,850
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,5,850
+F-8, Islamabad,32,House,33.7115043,73.0396002,6,5,850
+F-8, Islamabad,26,House,33.7115043,73.0396002,6,5,850
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,5,850
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,5,840
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,5,830
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,5,825
+F-8, Islamabad,40,House,33.7115043,73.0396002,6,5,800
+F-8, Islamabad,26,House,33.7115043,73.0396002,6,5,800
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,5,800
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,5,800
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,5,755
+F-8, Islamabad,26,House,33.7115043,73.0396002,6,5,750
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,5,750
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,5,680
+F-8, Islamabad,22,House,33.7115043,73.0396002,6,5,680
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,5,650
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,5,650
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,5,630
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,5,600
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,5,600
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,5,600
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,5,580
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,5,550
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,5,550
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,5,530
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,5,510
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,5,500
+F-8, Islamabad,24,House,33.7115043,73.0396002,6,5,499
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,5,455
+F-8, Islamabad,26,House,33.7115043,73.0396002,5,5,450
+F-8, Islamabad,22,House,33.7115043,73.0396002,6,5,450
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,5,400
+F-8, Islamabad,40,House,33.7115043,73.0396002,4,4,1000
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,4,1000
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,4,980
+F-8, Islamabad,12,House,33.7115043,73.0396002,4,4,900
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,4,900
+F-8, Islamabad,26,House,33.7115043,73.0396002,5,4,700
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,4,680
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,4,650
+F-8, Islamabad,24,House,33.7115043,73.0396002,4,4,600
+F-8, Islamabad,20,House,33.7115043,73.0396002,4,4,550
+F-8, Islamabad,22,House,33.7115043,73.0396002,5,4,550
+F-8, Islamabad,20,House,33.7115043,73.0396002,4,4,500
+F-8, Islamabad,26,House,33.7115043,73.0396002,5,4,500
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,4,500
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,4,500
+F-8, Islamabad,40,House,33.7115043,73.0396002,3,3,650
+F-8, Islamabad,40,House,33.7115043,73.0396002,5,3,650
+F-8, Islamabad,20,House,33.7115043,73.0396002,3,3,550
+F-8, Islamabad,20,House,33.7115043,73.0396002,3,3,533
+F-8, Islamabad,24,House,33.7115043,73.0396002,3,3,400
+F-8, Islamabad,15,House,33.7115043,73.0396002,3,3,300
+F-8, Islamabad,6.9,House,33.7115043,73.0396002,3,3,250
+F-8, Islamabad,8,House,33.7115043,73.0396002,3,2,400
+F-8, Islamabad,20,House,33.7115043,73.0396002,3,2,350
+F-8, Islamabad,1.1,House,33.7115043,73.0396002,1,1,30
+F-8, Islamabad,48,House,33.7115043,73.0396002,6,7,1800
+F-8, Islamabad,40,House,33.7115043,73.0396002,5,7,1800
+F-8, Islamabad,24,House,33.7115043,73.0396002,5,7,750
+F-8, Islamabad,20,House,33.7115043,73.0396002,6,6,650
+F-8, Islamabad,24,House,33.7115043,73.0396002,4,4,700
+F-8, Islamabad,20,House,33.7115043,73.0396002,5,4,650
+G-6, Islamabad,22,House,33.7154283,73.0856414,6,5,400
+B-17, Islamabad,5,House,33.6903984,72.8286389,4,3,50
+F-11, Islamabad,2.2,House,33.6843932,72.989544,1,1,90
+G-13, Islamabad,8,House,33.6514525,72.9620722,6,5,150
+I-14, Islamabad,7,House,33.6116096,72.9674477,3,3,50
+G-9/4, Islamabad,6,House,33.6874892,73.0409191,5,5,130
+I-8/3, Islamabad,14.2,House,33.6723528,73.07549127,6,6,350
+I-8/3, Islamabad,14.2,House,33.6723528,73.07549127,6,6,300
+I-8/4, Islamabad,48,House,33.665506,73.08045592,5,5,860
+Askari 11, Rawalpindi,15,House,33.59887905,73.02686313,6,6,130
+Bani Gala, Islamabad,40,House,33.7100588,73.1535951,6,7,300
+Bani Gala, Islamabad,40,House,33.7100588,73.1535951,6,6,250
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,6,4,55
+Karsaaz Villas, Islamabad,14.2,House,33.6361767,72.9824681,6,6,300
+Faisal Town - F-18, Islamabad,15,House,33.6361767,72.9824681,6,6,150
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,6,5,120
+Bahria Town Phase 8, Rawalpindi,24,House,33.53082195,73.11836633,6,6,320
+Bahria Town Phase 8, Rawalpindi,7,House,33.53082195,73.11836633,6,5,75
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,3,3,65
+Bahria Town Phase 8, Rawalpindi,5,House,33.53082195,73.11836633,3,3,58
+Bahria Main Boulevard, Rawalpindi,7,House,33.6361767,72.9824681,6,6,75
+Airport Housing Society, Rawalpindi,6,House,33.5941022,73.1307386,4,4,49
+Airport Housing Society, Rawalpindi,5,House,33.5941022,73.1307386,4,4,45
+Airport Housing Society, Rawalpindi,8,House,33.5941022,73.1307386,3,3,40
+Satellite Town - Block D, Rawalpindi,0,House,33.6514743,73.07595238,5,6,150
+Bahria Enclave - Sector N, Islamabad,5,House,33.6361767,72.9824681,3,3,70
+Bahria Enclave - Sector N, Islamabad,5,House,33.6361767,72.9824681,4,3,70
+Bahria Town Phase 8 - Block A, Rawalpindi,40,House,33.6361767,72.9824681,6,6,300
+Bahria Town Phase 8 - Block A, Rawalpindi,30,House,33.6361767,72.9824681,6,6,240
+Bahria Town Phase 8 - Block A, Rawalpindi,20,House,33.6361767,72.9824681,6,6,220
+Bahria Town Phase 8 - Block A, Rawalpindi,10,House,33.6361767,72.9824681,6,5,115
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.6361767,72.9824681,5,5,100
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.6361767,72.9824681,5,5,95
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.6361767,72.9824681,6,5,95
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.6361767,72.9824681,5,5,90
+Bahria Town Phase 8 - Rafi Block, Rawalpindi,5,House,33.6361767,72.9824681,4,3,60
+F-10, Islamabad,40,House,33.6918206,73.0066844,6,8,2200
+F-10, Islamabad,40,House,33.6918206,73.0066844,6,8,700
+F-10, Islamabad,40,House,33.6918206,73.0066844,6,8,600
+F-10, Islamabad,40,House,33.6918206,73.0066844,6,7,750
+F-10, Islamabad,40,House,33.6918206,73.0066844,5,7,600
+F-10, Islamabad,40,House,33.6918206,73.0066844,6,6,695
+F-10, Islamabad,20,House,33.6918206,73.0066844,6,6,500
+F-10, Islamabad,20,House,33.6918206,73.0066844,6,6,420
+F-10, Islamabad,24,House,33.6918206,73.0066844,6,6,400
+F-10, Islamabad,16,House,33.6918206,73.0066844,6,6,400
+F-10, Islamabad,22,House,33.6918206,73.0066844,6,6,390
+F-10, Islamabad,20,House,33.6918206,73.0066844,6,6,385
+F-10, Islamabad,24,House,33.6918206,73.0066844,6,6,380
+F-10, Islamabad,22,House,33.6918206,73.0066844,6,6,355
+F-10, Islamabad,20,House,33.6918206,73.0066844,5,6,350
+F-10, Islamabad,20,House,33.6918206,73.0066844,4,6,345
+F-10, Islamabad,20,House,33.6918206,73.0066844,4,6,300
+F-10, Islamabad,20,House,33.6918206,73.0066844,6,6,295
+F-10, Islamabad,40,House,33.6918206,73.0066844,5,5,600
+F-10, Islamabad,20,House,33.6918206,73.0066844,5,5,400
+F-10, Islamabad,20,House,33.6918206,73.0066844,6,5,400
+F-10, Islamabad,22,House,33.6918206,73.0066844,5,5,395
+F-10, Islamabad,20,House,33.6918206,73.0066844,5,5,370
+F-10, Islamabad,20,House,33.6918206,73.0066844,5,5,325
+F-10, Islamabad,20,House,33.6918206,73.0066844,4,5,300
+F-10, Islamabad,20,House,33.6918206,73.0066844,5,5,300
+F-10, Islamabad,20,House,33.6918206,73.0066844,5,5,295
+F-10, Islamabad,20,House,33.6918206,73.0066844,4,4,300
+F-10, Islamabad,20,House,33.6918206,73.0066844,4,4,280
+F-10, Islamabad,22,House,33.6918206,73.0066844,4,3,350
+F-10/2, Islamabad,16,House,33.6915516,73.0005401,5,5,400
+F-10/2, Islamabad,18,House,33.6915516,73.0005401,5,5,260
+F-10/3, Islamabad,20,House,33.69630405,73.00521862,6,5,450
+F-10/3, Islamabad,20,House,33.69630405,73.00521862,4,3,350
+F-10/4, Islamabad,20,House,33.6898642,73.01194295,6,6,300
+F-10/4, Islamabad,22,House,33.6898642,73.01194295,4,5,450
+F-10/4, Islamabad,22,House,33.6898642,73.01194295,5,5,325
+F-10/4, Islamabad,20,House,33.6898642,73.01194295,5,5,320
+Askari 14, Rawalpindi,20,House,33.54216075,73.06608648,5,5,150
+Askari 14, Rawalpindi,20,House,33.54216075,73.06608648,6,5,135
+Askari 14, Rawalpindi,12,House,33.54216075,73.06608648,6,5,115
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,6,5,115
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,5,5,100
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,6,5,100
+Askari 14, Rawalpindi,16,House,33.54216075,73.06608648,5,4,140
+Askari 14, Rawalpindi,10.9,House,33.54216075,73.06608648,4,4,110
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,4,4,105
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,5,4,105
+Askari 14, Rawalpindi,12,House,33.54216075,73.06608648,5,4,100
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,5,4,100
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,4,4,95
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,5,4,95
+Askari 14, Rawalpindi,20,House,33.54216075,73.06608648,3,3,135
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,3,3,95
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,4,3,95
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,3,3,90
+Askari 14, Rawalpindi,10,House,33.54216075,73.06608648,3,3,85
+Askari 14, Rawalpindi,10.7,House,33.54216075,73.06608648,3,3,70
+DHA Defence Phase 2, Islamabad,5,House,33.5276376,73.1114842,5,5,98
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,9,275
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,6,9,148
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,7,180
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,350
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,300
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,8,6,300
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,290
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,8,6,290
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,280
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,8,6,280
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,270
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,5,6,250
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,250
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,8,6,250
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,230
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,220
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,210
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,200
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,7,6,200
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,180
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,6,6,180
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,6,170
+DHA Defence Phase 2, Islamabad,16,House,33.5276376,73.1114842,6,6,150
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,5,220
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,5,200
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,6,5,185
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,5,5,165
+DHA Defence Phase 2, Islamabad,14,House,33.5276376,73.1114842,5,5,150
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,5,5,150
+DHA Defence Phase 2, Islamabad,16,House,33.5276376,73.1114842,6,5,150
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,5,5,130
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,6,5,125
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,5,5,100
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,4,4,160
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,5,4,160
+DHA Defence Phase 2, Islamabad,14,House,33.5276376,73.1114842,5,4,150
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,5,4,150
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,5,4,110
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,4,3,280
+DHA Defence Phase 2, Islamabad,20,House,33.5276376,73.1114842,4,3,275
+DHA Defence Phase 2, Islamabad,10,House,33.5276376,73.1114842,4,3,90
+DHA Defence Phase 2, Islamabad,7,House,33.5276376,73.1114842,3,3,85
+DHA Defence Phase 2, Islamabad,7,House,33.5276376,73.1114842,4,3,75
+DHA Phase 2 - Sector C, Islamabad,10,House,33.5276376,73.1114842,6,5,110
+DHA Phase 2 - Sector D, Islamabad,10,House,33.5276376,73.1114842,5,4,165
+DHA Phase 2 - Sector E, Islamabad,20,House,33.5276376,73.1114842,6,6,290
+DHA Phase 2 - Sector E, Islamabad,20,House,33.5276376,73.1114842,6,6,175
+DHA Phase 2 - Sector G, Islamabad,20,House,33.5276376,73.1114842,6,9,280
+DHA Phase 2 - Sector G, Islamabad,20,House,33.5276376,73.1114842,6,6,175
+DHA Phase 2 - Sector G, Islamabad,16,House,33.5276376,73.1114842,5,4,140
+DHA Phase 2 - Sector H, Islamabad,20,House,33.5276376,73.1114842,6,6,285
+DHA Phase 2 - Sector H, Islamabad,20,House,33.5276376,73.1114842,6,6,175
+DHA Phase 2 - Sector H, Islamabad,20,House,33.5276376,73.1114842,6,6,170
+DHA Phase 2 - Sector J, Islamabad,20,House,33.5276376,73.1114842,6,10,330
+DHA Phase 2 - Sector J, Islamabad,10,House,33.5276376,73.1114842,5,5,90
+DHA Phase 2 - Sector J, Islamabad,5,House,33.5276376,73.1114842,5,5,75
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,5,5,130
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,5,5,110
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,7,220
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,6,400
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,6,230
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,7,6,230
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,6,210
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,6,190
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,5,400
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,5,390
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,5,320
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,5,300
+Bahria Town Phase 2, Rawalpindi,15,House,33.5636623,73.1210451,6,5,300
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,5,250
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,5,5,220
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,6,5,220
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,5,195
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,5,5,190
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,5,190
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,5,170
+Bahria Town Phase 2, Rawalpindi,20,House,33.5636623,73.1210451,6,5,160
+Bahria Town Phase 2, Rawalpindi,11,House,33.5636623,73.1210451,6,5,160
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,6,5,120
+Bahria Town Phase 2, Rawalpindi,12,House,33.5636623,73.1210451,6,5,110
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,6,5,110
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,6,5,85
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,4,5,65
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,4,4,250
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,5,4,250
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,5,4,130
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,4,4,110
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,5,4,110
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,5,4,105
+Bahria Town Phase 2, Rawalpindi,11,House,33.5636623,73.1210451,5,4,100
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,5,4,95
+Bahria Town Phase 2, Rawalpindi,10,House,33.5636623,73.1210451,5,4,85
+E-11, Islamabad,20,House,33.6951189,72.972418,5,10,650
+E-11, Islamabad,20,House,33.6951189,72.972418,6,7,600
+E-11, Islamabad,20,House,33.6951189,72.972418,6,7,500
+E-11, Islamabad,20,House,33.6951189,72.972418,6,6,375
+E-11, Islamabad,20,House,33.6951189,72.972418,6,6,350
+E-11, Islamabad,18,House,33.6951189,72.972418,6,6,350
+E-11, Islamabad,20,House,33.6951189,72.972418,6,5,430
+E-11, Islamabad,20,House,33.6951189,72.972418,6,5,280
+E-11, Islamabad,20,House,33.6951189,72.972418,5,5,250
+E-11, Islamabad,10,House,33.6951189,72.972418,6,5,250
+E-11, Islamabad,10,House,33.6951189,72.972418,5,5,220
+E-11, Islamabad,10,House,33.6951189,72.972418,5,5,200
+E-11, Islamabad,7,House,33.6951189,72.972418,4,4,200
+E-11, Islamabad,8,House,33.6951189,72.972418,4,4,195
+E-11, Islamabad,10,House,33.6951189,72.972418,4,4,190
+E-11, Islamabad,6,House,33.6951189,72.972418,4,4,160
+E-11, Islamabad,7,House,33.6951189,72.972418,5,4,140
+E-11/1, Islamabad,8,House,33.6952316,72.970979,4,4,220
+E-11/2, Islamabad,22,House,33.700958,72.9728034,6,7,400
+E-11/2, Islamabad,16,House,33.700958,72.9728034,6,7,300
+E-11/3, Islamabad,20,House,33.7025879,72.9776753,6,6,360
+E-11/3, Islamabad,20,House,33.7025879,72.9776753,6,6,350
+Ghauri Town, Islamabad,6,House,33.5996227,73.1357793,6,6,58
+Ghauri Town, Islamabad,5,House,33.5996227,73.1357793,6,6,55
+Ghauri Town, Islamabad,10,House,33.5996227,73.1357793,4,4,42
+Ghauri Town, Islamabad,10,House,33.5996227,73.1357793,4,3,45
+Ghauri Town, Islamabad,10,House,33.5996227,73.1357793,3,3,42
+Ghauri Town, Islamabad,4,House,33.5996227,73.1357793,3,3,32
+Ghauri Town, Islamabad,5,House,33.5996227,73.1357793,4,3,30
+Ghauri Town, Islamabad,6,House,33.5996227,73.1357793,3,2,25
+Ghauri Town, Islamabad,5,House,33.5996227,73.1357793,3,2,25
+Ghauri Town, Islamabad,3,House,33.5996227,73.1357793,2,2,18
+Ghauri Town, Islamabad,3.6,House,33.5996227,73.1357793,2,2,17.5
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,5,5,130
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,5,5,125
+Bahria Town Phase 5, Rawalpindi,30,House,33.5517029,73.1249105,8,7,180
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,5,5,230
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,6,5,185
+Bahria Town Phase 5, Rawalpindi,20,House,33.5517029,73.1249105,6,5,149
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,6,5,110
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,5,4,240
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,5,4,210
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,5,4,190
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,5,4,115
+Bahria Town Phase 5, Rawalpindi,10,House,33.5517029,73.1249105,5,4,100
+Chaklala Scheme 3, Rawalpindi,10,House,33.5878597,73.0872416,5,5,150
+Chaklala Scheme 3, Rawalpindi,20,House,33.5878597,73.0872416,6,6,180
+Chaklala Scheme 3, Rawalpindi,10,House,33.5878597,73.0872416,4,5,130
+Chaklala Scheme 3, Rawalpindi,10,House,33.5878597,73.0872416,5,5,125
+Chaklala Scheme 3, Rawalpindi,10,House,33.5878597,73.0872416,6,5,75
+Chaklala Scheme 3, Rawalpindi,12,House,33.5878597,73.0872416,4,4,130
+Chaklala Scheme 3, Rawalpindi,5,House,33.5878597,73.0872416,6,4,64
+Chaklala Scheme 3, Rawalpindi,5,House,33.5878597,73.0872416,4,4,60
+Chaklala Scheme 3, Rawalpindi,5,House,33.5878597,73.0872416,6,4,60
+Chaklala Scheme 3, Rawalpindi,5,House,33.5878597,73.0872416,4,3,55
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,5,5,120
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,7,225
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,7,6,400
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,6,350
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,6,220
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,7,6,200
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,6,160
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,6,150
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,5,5,399
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,5,360
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,5,330
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,5,270
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,6,5,230
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,6,5,220
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,5,200
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,5,198
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,5,195
+Bahria Town Phase 3, Rawalpindi,15,House,33.5517029,73.1249105,6,5,160
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,6,5,150
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,6,5,130
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,6,5,125
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,6,5,120
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,5,5,115
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,4,5,110
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,5,5,110
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,6,5,110
+Bahria Town Phase 3, Rawalpindi,14,House,33.5517029,73.1249105,6,5,100
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,6,5,100
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,6,5,90
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,4,4,350
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,4,4,95
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,5,4,90
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,3,3,125
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,4,3,120
+Bahria Town Phase 3, Rawalpindi,10,House,33.5517029,73.1249105,4,3,100
+Bahria Town Phase 3, Rawalpindi,20,House,33.5517029,73.1249105,3,2,150
+Bahria Enclave, Islamabad,20,House,33.6550843,73.2051385,6,6,350
+Bahria Enclave, Islamabad,20,House,33.6550843,73.2051385,6,6,280
+Bahria Enclave, Islamabad,20,House,33.6550843,73.2051385,6,5,250
+Bahria Enclave, Islamabad,10,House,33.6550843,73.2051385,6,5,200
+Bahria Enclave, Islamabad,10,House,33.6550843,73.2051385,6,5,160
+Bahria Enclave, Islamabad,10,House,33.6550843,73.2051385,5,5,140
+Bahria Enclave, Islamabad,10,House,33.6550843,73.2051385,6,5,130
+Bahria Enclave, Islamabad,8,House,33.6550843,73.2051385,5,5,95
+Bahria Enclave, Islamabad,8,House,33.6550843,73.2051385,6,5,90
+Bahria Enclave, Islamabad,10,House,33.6550843,73.2051385,5,4,105
+Bahria Enclave, Islamabad,7,House,33.6550843,73.2051385,5,4,90
+Bahria Enclave, Islamabad,5,House,33.6550843,73.2051385,5,4,65
+Bahria Enclave, Islamabad,5,House,33.6550843,73.2051385,4,3,110
+Bahria Enclave, Islamabad,5,House,33.6550843,73.2051385,3,3,75
+Bahria Enclave, Islamabad,5,House,33.6550843,73.2051385,4,3,72
+Bahria Enclave, Islamabad,5,House,33.6550843,73.2051385,4,3,70
+Bahria Enclave, Islamabad,5,House,33.6550843,73.2051385,4,3,65
+Bahria Enclave, Islamabad,5,House,33.6550843,73.2051385,3,3,60
+Bahria Enclave - Sector A, Islamabad,10,House,33.6956541,73.21443851,5,5,150
+Bahria Enclave - Sector A, Islamabad,10,House,33.6956541,73.21443851,6,5,150
+Bahria Enclave - Sector A, Islamabad,10,House,33.6956541,73.21443851,5,5,145
+Bahria Enclave - Sector A, Islamabad,10,House,33.6956541,73.21443851,5,5,140
+Bahria Enclave - Sector A, Islamabad,10,House,33.6956541,73.21443851,6,5,135
+Bahria Enclave - Sector A, Islamabad,10,House,33.6956541,73.21443851,4,3,105
+Bahria Enclave - Sector A, Islamabad,10,House,33.6956541,73.21443851,2,2,65
+Bahria Enclave - Sector C, Islamabad,20,House,33.6932212,73.1943075,5,5,250
+Bahria Enclave - Sector C, Islamabad,20,House,33.6932212,73.1943075,5,5,180
+Bahria Enclave - Sector C1, Islamabad,9,House,33.6921956,73.1943075,5,5,115
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,5,5,110
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,6,6,200
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,6,5,210
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,5,5,205
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,6,5,160
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,6,5,140
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,5,5,135
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,4,5,128
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,6,5,110
+Bahria Enclave - Sector C1, Islamabad,10,House,33.6921956,73.1943075,5,4,105
+Bahria Enclave - Sector C3, Islamabad,9,House,33.6932212,73.1943075,5,5,70
+Bahria Enclave - Sector C3, Islamabad,5,House,33.6932212,73.1943075,5,5,50
+F-8/3, Islamabad,40,House,33.71607365,73.04304059,5,5,2434
+F-8/3, Islamabad,40,House,33.71607365,73.04304059,5,5,2291
+F-8/3, Islamabad,20,House,33.71607365,73.04304059,5,5,866
+F-8/3, Islamabad,20,House,33.71607365,73.04304059,5,5,578
+F-8/3, Islamabad,40,House,33.71607365,73.04304059,7,7,2041
+F-8/3, Islamabad,26,House,33.71607365,73.04304059,6,7,750
+F-8/3, Islamabad,20,House,33.71607365,73.04304059,6,6,1155
+F-8/3, Islamabad,40,House,33.71607365,73.04304059,6,6,1000
+F-8/3, Islamabad,20,House,33.71607365,73.04304059,6,6,900
+F-8/3, Islamabad,20,House,33.71607365,73.04304059,6,6,750
+F-8/3, Islamabad,26,House,33.71607365,73.04304059,5,5,800
+F-8/3, Islamabad,26,House,33.71607365,73.04304059,5,5,700
+F-8/3, Islamabad,40,House,33.71607365,73.04304059,4,4,950
+F-8/3, Islamabad,20,House,33.71607365,73.04304059,4,4,950
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,20,House,33.4941974,73.0695005,6,6,200
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,6,6,180
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,6,6,175
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,8,House,33.4941974,73.0695005,6,5,230
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7.3,House,33.4941974,73.0695005,6,5,230
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,10,House,33.4941974,73.0695005,5,5,120
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,6,5,90
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,6,5,88
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,5,5,85
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,6,5,85
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,4,5,80
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,6,5,80
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,5,5,75
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,6,5,75
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,6,5,72
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,5,5,70
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,6,5,70
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,5,4,80
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,5,4,65
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,5,House,33.4941974,73.0695005,5,4,60
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,7,House,33.4941974,73.0695005,4,3,150
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,5,House,33.4941974,73.0695005,3,3,55
+Bahria Town Phase 8 - Safari Valley, Rawalpindi,5,House,33.4941974,73.0695005,4,3,52
+Bahria Town Rawalpindi, Rawalpindi,20,House,33.5502173,73.1239422,6,6,380
+Bahria Town Rawalpindi, Rawalpindi,20,House,33.5502173,73.1239422,6,6,280
+Bahria Town Phase 8 - Block C, Rawalpindi,10,House,33.4824642,73.0498904,2,5,130
+Bahria Town Phase 8 - Block C, Rawalpindi,10,House,33.4824642,73.0498904,5,5,120
+Bahria Town Phase 8 - Block C, Rawalpindi,14,House,33.4824642,73.0498904,5,5,115
+Bahria Town Phase 8 - Block C, Rawalpindi,12,House,33.4824642,73.0498904,6,5,115
+Bahria Town Phase 8 - Block C, Rawalpindi,10,House,33.4824642,73.0498904,6,5,110
+Bahria Town Phase 8 - Block D, Rawalpindi,10,House,33.4824642,73.0498904,5,5,120
+Bahria Town Phase 8 - Block D, Rawalpindi,10,House,33.4824769,73.0498904,6,5,110
+Bahria Town Phase 8 - Block D, Rawalpindi,20,House,33.4824769,73.0498904,6,5,75
+Bahria Town Phase 8 - Block D, Rawalpindi,10,House,33.4824642,73.0498904,3,3,150
+Bahria Town Phase 8 - Block G, Rawalpindi,10,House,33.4824769,73.0498904,6,5,75
+Bahria Town Phase 8 - Block L, Rawalpindi,10,House,33.4824642,73.0498904,5,5,110
+Bahria Town Phase 8 - Block L, Rawalpindi,10,House,33.4824642,73.0498904,5,5,90
+Bahria Town Phase 8 - Block L, Rawalpindi,10,House,33.4824642,73.0498904,6,5,90
+Bahria Town Phase 8 - Block L, Rawalpindi,10,House,33.4824642,73.0498904,6,5,80
+Bahria Town Phase 8 - Block M, Rawalpindi,5,House,33.4824642,73.0498904,5,4,55
+Bahria Town Phase 8 - Block M, Rawalpindi,5,House,33.4824642,73.0498904,5,4,50
+Bahria Town Phase 8 - Block M, Rawalpindi,5,House,33.4824642,73.0498904,3,3,60
+Bahria Town Phase 8 - Block M, Rawalpindi,5,House,33.4824642,73.0498904,4,3,52
+Bahria Town Phase 8 - Block M, Rawalpindi,5,House,33.4824642,73.0498904,3,3,50
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,80
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,75
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,5,5,55
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,180
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,90
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,5,5,80
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,80
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,78
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,4,5,75
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,73
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,72
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,70
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,65
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,60
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,4,4,165
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,3,4,60
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,3,4,58
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,3,4,55
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,4,4,55
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,5,4,55
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,4,3,150
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,3,3,80
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,4,3,80
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,4,3,65
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,3,3,60
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,4,3,60
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,4,3,58
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,3,3,55
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,4,3,55
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,3,3,50
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,4,3,50
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,3,3,46
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,3,3,40
+Bahria Town Phase 8 - Ali Block, Rawalpindi,5,House,33.4824769,73.0498904,2,2,50
+Bahria Town Phase 8 - Ali Block, Rawalpindi,7,House,33.4824769,73.0498904,2,2,35
+Bahria Town Phase 8 - Sector F-2, Rawalpindi,12,House,33.4824769,73.0498904,3,3,100
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,78
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7.3,House,33.4824642,73.0498904,6,5,300
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,260
+Bahria Town Phase 8 - Umer Block, Rawalpindi,10,House,33.4824642,73.0498904,5,5,160
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,6,5,140
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,95
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,85
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,75
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,6,5,75
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,6,5,72
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,4,5,70
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,65
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.4824642,73.0498904,4,3,68
+Bahria Town Phase 8 - Usman Block, Rawalpindi,8,House,33.4824769,73.0498904,5,5,220
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,110
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,95
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,90
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,85
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,82
+Bahria Town Phase 8 - Usman Block, Rawalpindi,8,House,33.4824769,73.0498904,5,5,80
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,80
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,80
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,78
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,4,5,75
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,75
+Bahria Town Phase 8 - Usman Block, Rawalpindi,5,House,33.4824769,73.0498904,5,5,75
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,75
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,72
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,72
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,70
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,70
+Bahria Town Phase 8 - Usman Block, Rawalpindi,8,House,33.4824769,73.0498904,4,4,70
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,4,4,70
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,4,3,80
+Bahria Town Phase 8 - Usman Block, Rawalpindi,7,House,33.4824769,73.0498904,2,2,35
+Bahria Town Phase 8 - Khalid Block, Rawalpindi,7,House,33.4824642,73.0498904,3,3,75
+Bahria Town Phase 8 - Usman D Block, Rawalpindi,20,House,33.4824642,73.0498904,6,9,450
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,80
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,75
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,6,6,220
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,8,House,33.4824642,73.0498904,6,5,250
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,180
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,85
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,85
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,6,5,85
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,80
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,5,House,33.4824769,73.0498904,5,5,80
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,5,House,33.4824642,73.0498904,5,5,80
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,10,House,33.4824769,73.0498904,6,5,80
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,80
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,6,5,80
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,78
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,78
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,75
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,8,House,33.4824769,73.0498904,6,5,75
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,75
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,6,5,75
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,73
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,70
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,5,5,70
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,6,5,70
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,5,5,65
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,4,4,180
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,3,4,65
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,4,4,65
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,4,4,65
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,5,4,65
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,3,3,85
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,3,3,70
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824769,73.0498904,2,2,35
+Bahria Town Phase 8 - Abu Bakar Block, Rawalpindi,7,House,33.4824642,73.0498904,5,1,75
+Bahria Spring North, Rawalpindi,40,House,33.636067,72.8279551,6,8,500
+DHA Phase 2 - Sector F, Islamabad,20,House,33.636067,72.8279551,6,6,220
+Bahria Town Phase 8 - Block A, Rawalpindi,20,House,33.636067,72.8279551,6,6,210
+Bahria Town Phase 8 - Block A, Rawalpindi,20,House,33.636067,72.8279551,6,6,200
+Bahria Town Phase 8 - Block A, Rawalpindi,10,House,33.636067,72.8279551,5,5,100
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.636067,72.8279551,5,5,130
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.636067,72.8279551,5,5,100
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.636067,72.8279551,6,5,100
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.636067,72.8279551,5,5,90
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.636067,72.8279551,6,5,90
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.636067,72.8279551,5,5,85
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.636067,72.8279551,5,4,85
+Bahria Town Phase 8 - Block H, Rawalpindi,10,House,33.636067,72.8279551,3,3,100
+Bahria Town Phase 8 - Block L, Rawalpindi,10,House,33.636067,72.8279551,3,6,100
+Bahria Town Phase 8 - Block L, Rawalpindi,10,House,33.636067,72.8279551,5,5,100
+Bahria Town Phase 8 - Umer Block, Rawalpindi,7,House,33.636067,72.8279551,5,5,75
+E-7, Islamabad,40,House,33.7253134,73.04544231,5,8,1800
+E-7, Islamabad,40,House,33.7253134,73.04544231,6,7,2800
+E-7, Islamabad,32,House,33.7253134,73.04544231,6,7,1800
+E-7, Islamabad,38,House,33.7253134,73.04544231,6,7,1700
+E-7, Islamabad,32,House,33.7253134,73.04544231,6,7,1600
+E-7, Islamabad,36,House,33.7253134,73.04544231,9,7,1600
+E-7, Islamabad,40,House,33.7253134,73.04544231,6,7,1500
+E-7, Islamabad,48,House,33.7253134,73.04544231,7,7,1139
+E-7, Islamabad,48,House,33.7253134,73.04544231,6,7,1000
+E-7, Islamabad,20,House,33.7253134,73.04544231,6,6,1800
+E-7, Islamabad,26,House,33.7253134,73.04544231,8,6,1700
+E-7, Islamabad,40,House,33.7253134,73.04544231,7,6,1655
+E-7, Islamabad,38,House,33.7253134,73.04544231,6,6,1400
+E-7, Islamabad,40,House,33.7253134,73.04544231,6,6,800
+E-7, Islamabad,26,House,33.7253134,73.04544231,6,6,750
+E-7, Islamabad,20,House,33.7253134,73.04544231,6,5,1550
+E-7, Islamabad,20,House,33.7253134,73.04544231,6,5,1350
+E-7, Islamabad,48,House,33.7253134,73.04544231,6,5,1300
+E-7, Islamabad,30,House,33.7253134,73.04544231,6,5,1250
+E-7, Islamabad,40,House,33.7253134,73.04544231,5,5,1200
+E-7, Islamabad,24,House,33.7253134,73.04544231,6,5,1200
+E-7, Islamabad,24,House,33.7253134,73.04544231,5,5,1150
+E-7, Islamabad,20,House,33.7253134,73.04544231,6,5,1150
+E-7, Islamabad,24,House,33.7253134,73.04544231,6,5,1100
+E-7, Islamabad,26,House,33.7253134,73.04544231,6,5,1000
+E-7, Islamabad,40,House,33.7253134,73.04544231,6,5,990
+E-7, Islamabad,40,House,33.7253134,73.04544231,6,5,925
+E-7, Islamabad,40,House,33.7253134,73.04544231,6,5,855
+E-7, Islamabad,40,House,33.7253134,73.04544231,5,5,700
+E-7, Islamabad,40,House,33.7253134,73.04544231,5,4,1000
+E-7, Islamabad,40,House,33.7253134,73.04544231,4,4,998
+E-7, Islamabad,40,House,33.7253134,73.04544231,5,4,880
+E-7, Islamabad,40,House,33.7253134,73.04544231,4,4,750
+E-7, Islamabad,40,House,33.7253134,73.04544231,5,4,750
+E-7, Islamabad,40,House,33.7253134,73.04544231,4,4,735
+E-7, Islamabad,20,House,33.7253134,73.04544231,3,3,507
+E-7, Islamabad,24,House,33.7253134,73.04544231,4,3,500
+E-7, Islamabad,22,House,33.7253134,73.04544231,4,3,480
+E-7, Islamabad,24,House,33.7253134,73.04544231,4,3,475
+E-7, Islamabad,20,House,33.7253134,73.04544231,3,3,460
+E-7, Islamabad,20,House,33.7253134,73.04544231,4,3,450
+E-7, Islamabad,10,House,33.7253134,73.04544231,3,2,530
+E-7, Islamabad,20,House,33.7253134,73.04544231,3,2,425
+Bahria Greens - Overseas Enclave, Rawalpindi,20,House,33.5088821,73.0689491,6,5,250
+Bahria Greens - Overseas Enclave, Rawalpindi,10,House,33.5088821,73.0689491,6,5,130
+Bahria Greens - Overseas Enclave, Rawalpindi,10,House,33.5088821,73.0689491,6,5,100
+Bahria Greens - Overseas Enclave - Sector 1, Rawalpindi,24,House,33.5088821,73.0689491,6,5,200
+Bahria Greens - Overseas Enclave - Sector 2, Rawalpindi,10,House,33.5088821,73.0689491,6,5,120
+Bahria Greens - Overseas Enclave - Sector 2, Rawalpindi,10,House,33.5088821,73.0689491,5,5,100
+Bahria Greens - Overseas Enclave - Sector 2, Rawalpindi,10,House,33.5088821,73.0689491,5,5,95
+Bahria Greens - Overseas Enclave - Sector 3, Rawalpindi,10,House,33.5088821,73.0689491,5,5,110
+Bahria Greens - Overseas Enclave - Sector 3, Rawalpindi,10,House,33.5088821,73.0689491,3,3,150
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,20,House,33.5088821,73.0689491,5,5,210
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,20,House,33.5088821,73.0689491,6,9,230
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,20,House,33.5088821,73.0689491,6,8,230
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,20,House,33.5088821,73.0689491,6,7,250
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,20,House,33.5088821,73.0689491,5,7,220
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,20,House,33.5088821,73.0689491,6,6,200
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,20,House,33.5088821,73.0689491,6,6,190
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,20,House,33.5088821,73.0689491,6,5,220
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,20,House,33.5088821,73.0689491,6,4,200
+Bahria Greens - Overseas Enclave - Sector 5, Rawalpindi,5,House,33.5088821,73.0689491,4,4,60
+Bahria Greens - Overseas Enclave - Sector 6, Rawalpindi,10,House,33.5088821,73.0689491,6,7,150
+Bahria Greens - Overseas Enclave - Sector 6, Rawalpindi,10,House,33.5088821,73.0689491,6,5,115
+Bahria Town - Safari Villas, Rawalpindi,20,House,33.538029,73.1083068,6,5,170
+Bahria Town - Safari Villas, Rawalpindi,20,House,33.538029,73.1083068,5,5,160
+Bahria Town - Safari Villas, Rawalpindi,28,House,33.538029,73.1083068,4,5,150
+Bahria Town - Safari Villas, Rawalpindi,14,House,33.538029,73.1083068,6,5,150
+Bahria Town - Safari Villas, Rawalpindi,15,House,33.538029,73.1083068,5,5,120
+Bahria Town - Safari Villas, Rawalpindi,36,House,33.538029,73.1083068,5,4,165
+Bahria Town - Safari Villas, Rawalpindi,17,House,33.538029,73.1083068,5,4,160
+Bahria Town - Safari Villas, Rawalpindi,14,House,33.538029,73.1083068,4,4,100
+Bahria Town - Safari Villas, Rawalpindi,10,House,33.538029,73.1083068,4,4,100
+F-8/1, Islamabad,20,House,33.7080283,73.03549453,5,10,1439
+F-8/1, Islamabad,40,House,33.7080283,73.03549453,6,8,1100
+F-8/1, Islamabad,20,House,33.7080283,73.03549453,6,6,1000
+F-8/1, Islamabad,28,House,33.7080283,73.03549453,5,5,600
+F-8/1, Islamabad,16,House,33.7080283,73.03549453,5,4,850
+F-8/1, Islamabad,20,House,33.7080283,73.03549453,4,4,655
+F-8/1, Islamabad,20,House,33.7080283,73.03549453,3,3,425
+F-8/1, Islamabad,20,House,33.7080283,73.03549453,3,3,420
+F-8/1, Islamabad,26,House,33.7080283,73.03549453,3,3,310
+F-8/1, Islamabad,10,House,33.7080283,73.03549453,2,2,318
+Bahria Town - Safari Villas 3, Rawalpindi,12,House,33.538029,73.1083068,5,4,190
+Bahria Town - Safari Villas 3, Rawalpindi,12,House,33.538029,73.1083068,4,4,175
+Bahria Town - Safari Villas 3, Rawalpindi,12,House,33.538029,73.1083068,4,3,180
+Bahria Town - Safari Villas 3, Rawalpindi,10,House,33.538029,73.1083068,3,3,170
+Bahria Town - Safari Villas 3, Rawalpindi,12,House,33.538029,73.1083068,4,3,170
+Bahria Town - Safari Villas 3, Rawalpindi,12,House,33.538029,73.1083068,4,3,165
+Bahria Town - Safari Villas 3, Rawalpindi,11,House,33.538029,73.1083068,3,3,120
+Bahria Town - Safari Villas 3, Rawalpindi,11,House,33.538029,73.1083068,3,3,115
+Bahria Town - Safari Villas 3, Rawalpindi,12,House,33.538029,73.1083068,4,3,115
+Bahria Town - Safari Villas 3, Rawalpindi,12,House,33.538029,73.1083068,3,3,110
+Bahria Town - Safari Villas 3, Rawalpindi,12,House,33.538029,73.1083068,4,3,110
+Bahria Town - Safari Villas 3, Rawalpindi,10.9,House,33.538029,73.1083068,4,3,110
+Bahria Town - Safari Villas 3, Rawalpindi,12,House,33.538029,73.1083068,4,3,100
+Bahria Town - Safari Villas 3, Rawalpindi,10,House,33.538029,73.1083068,4,3,100
+G-11, Islamabad,14,House,33.6687238,72.9987376,6,6,250
+G-11, Islamabad,11,House,33.6687238,72.9987376,5,6,210
+G-11, Islamabad,20,House,33.6687238,72.9987376,4,5,250
+G-11, Islamabad,12,House,33.6687238,72.9987376,5,5,200
+G-11, Islamabad,8,House,33.6687238,72.9987376,6,5,190
+G-11, Islamabad,3.3,House,33.6687238,72.9987376,2,2,50
+G-11/1, Islamabad,6,House,33.6629876,72.99677619,4,4,165
+G-11/1, Islamabad,5.6,House,33.6629876,72.99677619,4,4,120
+G-11/3, Islamabad,20,House,33.6738143,72.99989175,5,11,1000
+I-8, Islamabad,14.2,House,33.6691153,73.0729575,6,6,300
+I-8, Islamabad,12.4,House,33.6691153,73.0729575,6,6,300
+I-8, Islamabad,12,House,33.6691153,73.0729575,6,6,295
+I-8, Islamabad,14.2,House,33.6691153,73.0729575,6,6,270
+I-8, Islamabad,14.2,House,33.6691153,73.0729575,6,6,260
+I-8, Islamabad,14.2,House,33.6691153,73.0729575,6,6,250
+I-8, Islamabad,24,House,33.6691153,73.0729575,4,4,400
+I-8, Islamabad,24,House,33.6691153,73.0729575,4,4,300
+I-8/3, Islamabad,14.2,House,33.6723528,73.07549127,6,6,350
+I-8/3, Islamabad,14.2,House,33.6723528,73.07549127,6,6,300
+I-8/3, Islamabad,12.4,House,33.6723528,73.07549127,6,6,250
+I-8/3, Islamabad,12.4,House,33.6723528,73.07549127,5,5,300
+I-8/3, Islamabad,20,House,33.6723528,73.07549127,5,5,275
+I-8/3, Islamabad,24,House,33.6723528,73.07549127,4,4,450
+I-8/3, Islamabad,12.4,House,33.6723528,73.07549127,3,3,110
+I-8/4, Islamabad,48,House,33.665506,73.08045592,5,5,850
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,6,7,115
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,6,7,100
+Bahria Town Phase 8 - Block E, Rawalpindi,14,House,33.4893781,73.0575652,5,5,140
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,6,5,120
+Bahria Town Phase 8 - Block E, Rawalpindi,14,House,33.4893781,73.0575652,6,5,115
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,5,5,105
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,5,5,100
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,5,5,95
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,6,5,95
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,5,5,90
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,6,5,90
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,5,5,88
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,5,5,75
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,4,4,300
+Bahria Town Phase 8 - Block E, Rawalpindi,10,House,33.4893781,73.0575652,6,4,110
+Bahria Town Phase 8 - Block E, Rawalpindi,5,House,33.4893781,73.0575652,3,3,55
+F-7, Islamabad,80,House,33.7204333,73.0561174,5,5,800
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,6,1900
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,6,856
+F-7, Islamabad,20,House,33.7204333,73.0561174,6,6,580
+F-7, Islamabad,40,House,33.7204333,73.0561174,5,5,1300
+F-7, Islamabad,26,House,33.7204333,73.0561174,6,5,1250
+F-7, Islamabad,40,House,33.7204333,73.0561174,6,5,800
+F-7, Islamabad,22,House,33.7204333,73.0561174,6,5,680
+F-7, Islamabad,44,House,33.7204333,73.0561174,5,4,830
+F-7, Islamabad,36,House,33.7204333,73.0561174,5,4,825
+D-12, Islamabad,10,House,33.7018177,72.9486189,6,6,250
+D-12, Islamabad,8,House,33.7018177,72.9486189,6,6,250
+D-12, Islamabad,10,House,33.7018177,72.9486189,6,6,230
+D-12, Islamabad,10,House,33.7018177,72.9486189,6,5,300
+D-12, Islamabad,8,House,33.7018177,72.9486189,6,5,250
+D-12, Islamabad,10,House,33.7018177,72.9486189,4,4,300
+D-12, Islamabad,4,House,33.7018177,72.9486189,4,4,100
+D-12, Islamabad,4,House,33.7018177,72.9486189,4,4,90
+D-12, Islamabad,4,House,33.7018177,72.9486189,3,3,125
+D-12, Islamabad,4.4,House,33.7018177,72.9486189,4,3,100
+D-12, Islamabad,4,House,33.7018177,72.9486189,4,3,100
+D-12/1, Islamabad,4,House,33.6963292,72.94733408,4,4,100
+Bani Gala, Islamabad,7,House,33.7100588,73.1535951,5,5,40
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,5,5,25
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,6,10,300
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,6,10,280
+Bani Gala, Islamabad,40,House,33.7100588,73.1535951,6,8,500
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,6,8,120
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,6,7,125
+Bani Gala, Islamabad,12,House,33.7100588,73.1535951,6,7,90
+Bani Gala, Islamabad,90,House,33.7100588,73.1535951,6,6,375
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,6,6,300
+Bani Gala, Islamabad,30,House,33.7100588,73.1535951,5,6,250
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,6,6,130
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,6,6,100
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,6,6,59
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,6,6,50
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,6,5,155
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,5,5,150
+Bani Gala, Islamabad,15,House,33.7100588,73.1535951,5,5,120
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,5,5,110
+Bani Gala, Islamabad,11,House,33.7100588,73.1535951,6,5,110
+Bani Gala, Islamabad,15,House,33.7100588,73.1535951,6,5,100
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,6,5,100
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,5,5,55
+Bani Gala, Islamabad,4.5,House,33.7100588,73.1535951,5,5,55
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,6,5,50
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,5,4,130
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,6,4,110
+Bani Gala, Islamabad,12,House,33.7100588,73.1535951,5,4,100
+Bani Gala, Islamabad,13,House,33.7100588,73.1535951,4,4,95
+Bani Gala, Islamabad,12,House,33.7100588,73.1535951,4,4,90
+Bani Gala, Islamabad,12,House,33.7100588,73.1535951,6,4,85
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,6,4,85
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,5,4,55
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,6,4,50
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,4,3,75
+Bani Gala, Islamabad,14,House,33.7100588,73.1535951,4,3,65
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,4,3,60
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,4,3,50
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,3,3,47
+Bani Gala, Islamabad,15,House,33.7100588,73.1535951,3,3,45
+Bani Gala, Islamabad,7.5,House,33.7100588,73.1535951,3,3,40
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,4,3,40
+Bani Gala, Islamabad,20,House,33.7100588,73.1535951,2,2,65
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,1,2,50
+Bani Gala, Islamabad,10,House,33.7100588,73.1535951,2,2,50
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,3,2,40
+Bani Gala, Islamabad,6.5,House,33.7100588,73.1535951,2,2,35
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,2,2,35
+Bani Gala, Islamabad,8,House,33.7100588,73.1535951,3,2,35
+Bani Gala, Islamabad,6,House,33.7100588,73.1535951,2,2,28
+Bani Gala, Islamabad,5,House,33.7100588,73.1535951,3,2,28
+Bani Gala, Islamabad,4,House,33.7100588,73.1535951,1,2,15
+Bahria Town Phase 7, Rawalpindi,7,House,33.5498633,73.1331083,5,5,70
+Bahria Town Phase 7, Rawalpindi,1.5,House,33.5498633,73.1331083,5,5,25
+Bahria Town Phase 7, Rawalpindi,12,House,33.5498633,73.1331083,5,7,150
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,7,150
+Bahria Town Phase 7, Rawalpindi,20,House,33.5498633,73.1331083,6,5,200
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,130
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,127
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,123
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,120
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,115
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,112
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,6,5,110
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,108
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,105
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,100
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,95
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,93
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,90
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,88
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,86
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,85
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,5,80
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,5,4,160
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,3,3,150
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,3,3,120
+Bahria Town Phase 7, Rawalpindi,12.4,House,33.5498633,73.1331083,4,3,100
+Bahria Town Phase 7, Rawalpindi,5,House,33.5498633,73.1331083,4,3,65
+Bahria Town Phase 7, Rawalpindi,10,House,33.5498633,73.1331083,2,2,75
+DHA Phase 1 - Defence Villas, Islamabad,12,House,33.5110032,73.0820351,5,5,100
+DHA Phase 1 - Defence Villas, Islamabad,10,House,33.5110032,73.0820351,4,4,110
+DHA Phase 1 - Defence Villas, Islamabad,12,House,33.5110032,73.0820351,3,4,95
+DHA Phase 1 - Defence Villas, Islamabad,11,House,33.5110032,73.0820351,4,3,110
+DHA Phase 1 - Defence Villas, Islamabad,11,House,33.5110032,73.0820351,4,3,100
+DHA Phase 1 - Defence Villas, Islamabad,12,House,33.5110032,73.0820351,5,3,100
+DHA Phase 1 - Defence Villas, Islamabad,11,House,33.5110032,73.0820351,5,3,100
+DHA Phase 1 - Defence Villas, Islamabad,11,House,33.5110032,73.0820351,3,3,95
+DHA Phase 1 - Defence Villas, Islamabad,12,House,33.5110032,73.0820351,4,3,95
+DHA Phase 1 - Defence Villas, Islamabad,15,House,33.5110032,73.0820351,3,3,90
+DHA Phase 1 - Defence Villas, Islamabad,11,House,33.5110032,73.0820351,4,3,90
+DHA Phase 1 - Defence Villas, Islamabad,12,House,33.5110032,73.0820351,4,3,85
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,5,5,220
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,5,130
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,5,120
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,5,8,235
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,7,220
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,7,6,220
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,6,210
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,6,195
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,7,6,195
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,6,150
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,6,130
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,5,420
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,5,350
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,5,220
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,5,190
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,5,175
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,5,150
+Bahria Town Phase 4, Rawalpindi,20,House,33.5498633,73.1331083,6,5,130
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,5,130
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,5,125
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,5,120
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,5,115
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,5,115
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,5,110
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,7,5,110
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,5,100
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,5,95
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,6,5,90
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,5,77
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,4,140
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,4,120
+Bahria Town Phase 4, Rawalpindi,10,House,33.5498633,73.1331083,5,4,95
+Bahria Town Phase 4, Rawalpindi,10,House,33.5488409,73.1199605,3,3,150
