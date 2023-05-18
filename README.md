@@ -8,4 +8,4 @@ The dataset was gathered entirely from scratch and cleaned and refined to increa
 The model was implemented using KNN to recommend the ideal property to users based on their preferences.
 
 The users enter 3 locations of their choice from where they want their rental house to be nearest of and their price range. 
-Then the model will recommend the most ideal rental locations that satisifies all the criteria of the user.
+Then the model will recommend the most ideal rental locations that satisfies all the criteria of the user.
